@@ -1,0 +1,1354 @@
+[
+ {
+  "level": "book",
+  "no": 1,
+  "name": "បទប្បញ្ញត្តិទូទៅ",
+  "page": 3,
+  "children": [
+   {
+    "level": "title",
+    "no": 1,
+    "name": "ច្បាប់ព្រហ្មទណ្ឌ",
+    "page": 3,
+    "children": [
+     {
+      "level": "chapter",
+      "no": 1,
+      "name": "គោលការណ៍ទូទៅ",
+      "page": 3,
+      "children": []
+     },
+     {
+      "level": "chapter",
+      "no": 2,
+      "name": "ការអនុវត្តច្បាប់ព្រហ្មទណ្ឌនៅក្នុងពេលវេលា",
+      "page": 4,
+      "children": []
+     },
+     {
+      "level": "chapter",
+      "no": 3,
+      "name": "ការអនុវត្តច្បាប់ព្រហ្មទណ្ឌកម្ពុជានៅក្នុងលំហ",
+      "page": 5,
+      "children": [
+       {
+        "level": "section",
+        "no": 1,
+        "name": "បទល្មើសដែលបានប្រព្រឹត្ត ឬចាត់ថាបានប្រព្រឹត្តនៅលើដែនដីនៃព្រះរាជាណាចក្រកម្ពុជា",
+        "page": 5,
+        "children": []
+       },
+       {
+        "level": "section",
+        "no": 2,
+        "name": "បទល្មើសដែលបានប្រព្រឹត្តនៅក្រៅដែនដីនៃព្រះរាជាណាចក្រកម្ពុជា",
+        "page": 7,
+        "children": []
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "level": "title",
+    "no": 2,
+    "name": "ការទទួលខុសត្រូវព្រហ្មទណ្",
+    "page": 8,
+    "children": [
+     {
+      "level": "chapter",
+      "no": 1,
+      "name": "បទប្បញ្ញត្តិទូទៅ",
+      "page": 8,
+      "children": []
+     },
+     {
+      "level": "chapter",
+      "no": 2,
+      "name": "មូលហេតុនៃការមិនទទួលខុសត្រូវ ឬការសម្រាលនូវការទទួលខុសត្រូវព្រហ្មទណ្ឌ",
+      "page": 11,
+      "children": []
+     },
+     {
+      "level": "chapter",
+      "no": 3,
+      "name": "ការទទួលខុសត្រូវព្រហ្មទណ្ឌរបស់អនីតិជន",
+      "page": 13,
+      "children": []
+     },
+     {
+      "level": "chapter",
+      "no": 4,
+      "name": "ការទទួលខុសត្រូវព្រហ្មទណ្ឌរបស់នីតិបុគ្គល",
+      "page": 15,
+      "children": []
+     }
+    ]
+   },
+   {
+    "level": "title",
+    "no": 3,
+    "name": "ទោស",
+    "page": 15,
+    "children": [
+     {
+      "level": "chapter",
+      "no": 1,
+      "name": "ប្រភេទនៃទោស",
+      "page": 15,
+      "children": [
+       {
+        "level": "section",
+        "no": 1,
+        "name": "មូលទោស",
+        "page": 15,
+        "children": []
+       },
+       {
+        "level": "section",
+        "no": 2,
+        "name": "ទោសបន្ថែម",
+        "page": 17,
+        "children": []
+       },
+       {
+        "level": "section",
+        "no": 3,
+        "name": "ទោសជំនួស",
+        "page": 24,
+        "children": [
+         {
+          "level": "subsection",
+          "no": 1,
+          "name": "ការងារសហគមន៍",
+          "page": 24,
+          "children": []
+         },
+         {
+          "level": "subsection",
+          "no": 2,
+          "name": "ការស្តីបន្ទោស",
+          "page": 25,
+          "children": []
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "level": "chapter",
+      "no": 2,
+      "name": "ស្ថានទម្ងន់ទោស និងស្ថានសម្រាលទោស",
+      "page": 25,
+      "children": [
+       {
+        "level": "section",
+        "no": 1,
+        "name": "ស្ថានទម្ងន់ទោស",
+        "page": 25,
+        "children": [
+         {
+          "level": "subsection",
+          "no": 1,
+          "name": "និយមន័យនៃស្ថានទម្ងន់ទោសដោយឡែកខ្លះៗ",
+          "page": 25,
+          "children": []
+         },
+         {
+          "level": "subsection",
+          "no": 2,
+          "name": "ការមិនរាងចាល",
+          "page": 27,
+          "children": []
+         }
+        ]
+       },
+       {
+        "level": "section",
+        "no": 2,
+        "name": "ស្ថានសម្រាលទោស",
+        "page": 30,
+        "children": []
+       }
+      ]
+     },
+     {
+      "level": "chapter",
+      "no": 3,
+      "name": "របបនៃការប្រកាសទោស",
+      "page": 31,
+      "children": [
+       {
+        "level": "section",
+        "no": 1,
+        "name": "របបទូទៅ",
+        "page": 31,
+        "children": []
+       },
+       {
+        "level": "section",
+        "no": 2,
+        "name": "ការព្យូរទោសធម្មតា",
+        "page": 33,
+        "children": [
+         {
+          "level": "subsection",
+          "no": 1,
+          "name": "បទប្បញ្ញត្តិរួម",
+          "page": 33,
+          "children": []
+         },
+         {
+          "level": "subsection",
+          "no": 2,
+          "name": "ការចោទប្រកាន់ចំពោះបទឧក្រិដ្ឋ ឬបទមជ្ឈិម",
+          "page": 33,
+          "children": []
+         },
+         {
+          "level": "subsection",
+          "no": 3,
+          "name": "ការចោទប្រកាន់ចំពោះបទលហ",
+          "page": 35,
+          "children": []
+         }
+        ]
+       },
+       {
+        "level": "section",
+        "no": 3,
+        "name": "ការព្យូរទោសសាកល្បង",
+        "page": 36,
+        "children": []
+       },
+       {
+        "level": "section",
+        "no": 4,
+        "name": "ការផ្អាកការប្រកាសទោស",
+        "page": 39,
+        "children": []
+       },
+       {
+        "level": "section",
+        "no": 5,
+        "name": "របបពាក់កណ្តាលសេរីភាព",
+        "page": 40,
+        "children": []
+       },
+       {
+        "level": "section",
+        "no": 6,
+        "name": "ការបែងចែកទោសជាប្រភាគ",
+        "page": 41,
+        "children": []
+       }
+      ]
+     },
+     {
+      "level": "chapter",
+      "no": 4,
+      "name": "វិធានអនុវត្តនៅក្នុងករណីបទល្មើសត្រួតគ្នា",
+      "page": 42,
+      "children": [
+       {
+        "level": "section",
+        "no": 1,
+        "name": "វិធានទូទៅ",
+        "page": 42,
+        "children": []
+       },
+       {
+        "level": "section",
+        "no": 2,
+        "name": "វិធានដោយឡែក",
+        "page": 43,
+        "children": []
+       }
+      ]
+     },
+     {
+      "level": "chapter",
+      "no": 5,
+      "name": "មូលហេតុទូទៅដែលមានផលប៉ះពាល់ដល់ការអនុវត្តទោស",
+      "page": 44,
+      "children": [
+       {
+        "level": "section",
+        "no": 1,
+        "name": "អាជ្ញាយុកាលនៃទោស",
+        "page": 44,
+        "children": []
+       },
+       {
+        "level": "section",
+        "no": 2,
+        "name": "ការអនុគ្រោះទោស",
+        "page": 45,
+        "children": []
+       },
+       {
+        "level": "section",
+        "no": 3,
+        "name": "ការលើកលែងទោសជាទូទៅ",
+        "page": 45,
+        "children": []
+       },
+       {
+        "level": "section",
+        "no": 4,
+        "name": "ការរៀបចំទោស និងការលុបចោលទោសបន្ថែមខ្លះៗ",
+        "page": 46,
+        "children": []
+       }
+      ]
+     },
+     {
+      "level": "chapter",
+      "no": 6,
+      "name": "ទោសដែលអាចអនុវត្តចំពោះអនីតិជន",
+      "page": 49,
+      "children": [
+       {
+        "level": "section",
+        "no": 1,
+        "name": "បទប្បញ្ញត្តិទូទៅ",
+        "page": 49,
+        "children": []
+       },
+       {
+        "level": "section",
+        "no": 2,
+        "name": "បទប្បញ្ញត្តិដោយឡែក",
+        "page": 51,
+        "children": []
+       }
+      ]
+     },
+     {
+      "level": "chapter",
+      "no": 7,
+      "name": "ទោសដែលត្រូវអនុវត្តចំពោះនីតិបុគ្គល",
+      "page": 52,
+      "children": [
+       {
+        "level": "section",
+        "no": 1,
+        "name": "បទប្បញ្ញត្តិទូទេៅ",
+        "page": 52,
+        "children": []
+       },
+       {
+        "level": "section",
+        "no": 2,
+        "name": "ទោសបន្ថែម",
+        "page": 52,
+        "children": []
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "level": "book",
+  "no": 2,
+  "name": "បទល្មើសប្រឆាំងនឹងបុគ្គល",
+  "page": 58,
+  "children": [
+   {
+    "level": "title",
+    "no": 1,
+    "name": "បទឧក្រិដ្ឋប្រល័យពូជសាសន៍ បទឧក្រិដ្ឋប្រឆាំងមនុស្សជាតិ បទឧក្រិដ្ឋសង្គ្រាម",
+    "page": 58,
+    "children": [
+     {
+      "level": "chapter",
+      "no": 1,
+      "name": "បទឧក្រិដ្ឋប្រល័យពូជសាសន៍",
+      "page": 58,
+      "children": []
+     },
+     {
+      "level": "chapter",
+      "no": 2,
+      "name": "បទឧក្រិដ្ឋប្រឆាំងមនុស្សជាតិ",
+      "page": 61,
+      "children": []
+     },
+     {
+      "level": "chapter",
+      "no": 3,
+      "name": "បទឧក្រិដ្ឋសង្គ្រាម",
+      "page": 64,
+      "children": []
+     }
+    ]
+   },
+   {
+    "level": "title",
+    "no": 2,
+    "name": "ការប៉ះពាល់ដល់មនុស្ស",
+    "page": 68,
+    "children": [
+     {
+      "level": "chapter",
+      "no": 1,
+      "name": "ការប៉ះពាល់ដល់ជីវិតមនុស្ស",
+      "page": 68,
+      "children": [
+       {
+        "level": "section",
+        "no": 1,
+        "name": "ការប៉ះពាល់ដោយចេតនាដល់ជីវិតមនុស្ស",
+        "page": 68,
+        "children": []
+       },
+       {
+        "level": "section",
+        "no": 2,
+        "name": "ការប៉ះពាល់ដោយអចេតនាដល់ជីវិតមនុស្ស",
+        "page": 71,
+        "children": []
+       }
+      ]
+     },
+     {
+      "level": "chapter",
+      "no": 2,
+      "name": "ការប៉ះពាល់ដល់បូរណភាពនៃបុគ្គល",
+      "page": 73,
+      "children": [
+       {
+        "level": "section",
+        "no": 1,
+        "name": "ទារុណកម្ម និងអំពើឃោរឃៅ",
+        "page": 73,
+        "children": []
+       },
+       {
+        "level": "section",
+        "no": 2,
+        "name": "អំពើហិង្សា",
+        "page": 76,
+        "children": []
+       },
+       {
+        "level": "section",
+        "no": 3,
+        "name": "ការគំរាមកំហែង",
+        "page": 81,
+        "children": []
+       },
+       {
+        "level": "section",
+        "no": 4,
+        "name": "ការបង្កឱ្យមានរបួសដោយអចេតនា",
+        "page": 83,
+        "children": []
+       }
+      ]
+     },
+     {
+      "level": "chapter",
+      "no": 3,
+      "name": "ការបំពានខាងផ្លូវភេទ",
+      "page": 86,
+      "children": [
+       {
+        "level": "section",
+        "no": 1,
+        "name": "ការរំលោភសេពសន្ថវៈ",
+        "page": 86,
+        "children": []
+       },
+       {
+        "level": "section",
+        "no": 2,
+        "name": "ការបំពានខាងផ្លូវភេទដទៃទៀត",
+        "page": 88,
+        "children": []
+       }
+      ]
+     },
+     {
+      "level": "chapter",
+      "no": 4,
+      "name": "ការប៉ះពាល់ដល់សេរីភាព",
+      "page": 91,
+      "children": [
+       {
+        "level": "section",
+        "no": 1,
+        "name": "ការចាប់ ការឃុំឃាំង និងការបង្ខាំងដោយខុសច្បាប់",
+        "page": 91,
+        "children": []
+       },
+       {
+        "level": "section",
+        "no": 2,
+        "name": "ការប៉ះពាល់ដល់សេរីភាពដទៃទៀត",
+        "page": 93,
+        "children": []
+       }
+      ]
+     },
+     {
+      "level": "chapter",
+      "no": 5,
+      "name": "ការប៉ះពាល់ដល់សេចក្តីថ្លៃថ្នូ",
+      "page": 95,
+      "children": [
+       {
+        "level": "section",
+        "no": 1,
+        "name": "ការប៉ះពាល់ដល់ការគោរពដែលតម្រូវឱ្យមានចំពោះអ្នកស្លាប់",
+        "page": 95,
+        "children": []
+       },
+       {
+        "level": "section",
+        "no": 2,
+        "name": "ការរើសអើង",
+        "page": 96,
+        "children": []
+       },
+       {
+        "level": "section",
+        "no": 3,
+        "name": "លក្ខខណ្ឌការងារប៉ះពាល់ដល់សេចក្តីថ្លៃថ្នូររបស់មនុស្ស",
+        "page": 100,
+        "children": []
+       },
+       {
+        "level": "section",
+        "no": 4,
+        "name": "អំពើពុករលួយនៃនិយោជិត និងអភិបាល ជាអាទិ",
+        "page": 103,
+        "children": []
+       },
+       {
+        "level": "section",
+        "no": 5,
+        "name": "សញ្ចារកម្ម",
+        "page": 106,
+        "children": []
+       },
+       {
+        "level": "section",
+        "no": 6,
+        "name": "ការប៉ះពាល់ផ្សេងទៀតដល់សេចកូតីថ្លៃថ្លូ",
+        "page": 112,
+        "children": []
+       }
+      ]
+     },
+     {
+      "level": "chapter",
+      "no": 6,
+      "name": "ការប៉ះពាល់ដល់បុគ្គលភាព",
+      "page": 112,
+      "children": [
+       {
+        "level": "section",
+        "no": 1,
+        "name": "ការប៉ះពាល់ដល់ជីវភាពឯកជន",
+        "page": 112,
+        "children": []
+       },
+       {
+        "level": "section",
+        "no": 2,
+        "name": "ការបរិហារក្រី និងការជេរប្រមាថ",
+        "page": 114,
+        "children": []
+       },
+       {
+        "level": "section",
+        "no": 3,
+        "name": "ការប្តឹងបរិហារបង្កាច់ក្រីិ",
+        "page": 116,
+        "children": []
+       },
+       {
+        "level": "section",
+        "no": 4,
+        "name": "ការប៉ះពាល់ដល់អាថ៌កំបាំងខាងវិជ្ជាជីវៈ",
+        "page": 118,
+        "children": []
+       },
+       {
+        "level": "section",
+        "no": 5,
+        "name": "ការប៉ះពាល់ដល់ការសម្ងាត់នៃការឆ្លងឆ្លើយតាមលិខិត និងទូរគមនាគមន៍",
+        "page": 119,
+        "children": []
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "level": "title",
+    "no": 3,
+    "name": "ការប៉ះពាល់ដល់អនីតិជន និងគ្រួសារ",
+    "page": 120,
+    "children": [
+     {
+      "level": "chapter",
+      "no": 1,
+      "name": "អំពើបោះបង់អនីតិជន",
+      "page": 120,
+      "children": []
+     },
+     {
+      "level": "chapter",
+      "no": 2,
+      "name": "ការបោះបង់គ្រួសារ",
+      "page": 121,
+      "children": []
+     },
+     {
+      "level": "chapter",
+      "no": 3,
+      "name": "ការប៉ះពាល់ដល់ការថែរក្សាអនីតិជន",
+      "page": 122,
+      "children": []
+     },
+     {
+      "level": "chapter",
+      "no": 4,
+      "name": "ការប៉ះពាល់ដល់បុគ្គភាព",
+      "page": 123,
+      "children": []
+     },
+     {
+      "level": "chapter",
+      "no": 5,
+      "name": "ការដាក់អនីតិជនឱ្យស្ថិតក្នុងស្ថានភាពគ្រោះថ្នាក់",
+      "page": 126,
+      "children": [
+       {
+        "level": "section",
+        "no": 1,
+        "name": "ការប៉ះពាល់ដល់សុខភាព និងចិត្តសាស្ត្រ",
+        "page": 126,
+        "children": []
+       },
+       {
+        "level": "section",
+        "no": 2,
+        "name": "ការញុះញង់អនីតិជនឱ្យប្រព្រឹត្តអំពើខុសច្បាប់ ឬអំពើគ្រោះថ្នាក់",
+        "page": 127,
+        "children": []
+       },
+       {
+        "level": "section",
+        "no": 3,
+        "name": "ការរំលោភអំណាចមេបា",
+        "page": 128,
+        "children": []
+       },
+       {
+        "level": "section",
+        "no": 4,
+        "name": "ការប៉ុនប៉ង និងទណ្ឌកម្ម",
+        "page": 129,
+        "children": []
+       }
+      ]
+     },
+     {
+      "level": "chapter",
+      "no": 6,
+      "name": "ការប៉ះពាល់ផ្សេងទៀតដល់គ្រួសារ",
+      "page": 130,
+      "children": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "level": "book",
+  "no": 3,
+  "name": "បទល្មើសប្រឆាំងនឹងទ្រព្យសម្ប្ិ",
+  "page": 131,
+  "children": [
+   {
+    "level": "title",
+    "no": 1,
+    "name": "ការយកទ្រព្យសម្បត្តិអ្នកដទៃមកធ្វើជាកម្មសិទ្ធិរបស់ខ្លួនដោយទុចរិត",
+    "page": 131,
+    "children": [
+     {
+      "level": "chapter",
+      "no": 1,
+      "name": "ការលួច និងបទល្មើសប្រហាក់ប្រហែល",
+      "page": 131,
+      "children": [
+       {
+        "level": "section",
+        "no": 1,
+        "name": "ការលួច",
+        "page": 131,
+        "children": []
+       },
+       {
+        "level": "section",
+        "no": 2,
+        "name": "ការកំហែងយក",
+        "page": 134,
+        "children": []
+       },
+       {
+        "level": "section",
+        "no": 3,
+        "name": "ការគំរាមកំហែងហែកក្រ៕",
+        "page": 137,
+        "children": []
+       }
+      ]
+     },
+     {
+      "level": "chapter",
+      "no": 2,
+      "name": "ការឆបោក និងអំពើប្រហាក់ប្រហែល",
+      "page": 139,
+      "children": [
+       {
+        "level": "section",
+        "no": 1,
+        "name": "ការឆបោក",
+        "page": 139,
+        "children": []
+       },
+       {
+        "level": "section",
+        "no": 2,
+        "name": "បទល្មើសប្រហាក់ប្រហែលនឹងការឆបោក",
+        "page": 141,
+        "children": [
+         {
+          "level": "subsection",
+          "no": 1,
+          "name": "ការទាញយកប្រយោជន៍ដោយរំលោភលើភាពទន់ខ្សោយ",
+          "page": 141,
+          "children": []
+         },
+         {
+          "level": "subsection",
+          "no": 2,
+          "name": "ការបន្ំ",
+          "page": 142,
+          "children": []
+         },
+         {
+          "level": "subsection",
+          "no": 3,
+          "name": "ការប៉ះពាល់ដល់សេរីភាពនៃការលក់ដេញថ្លៃ",
+          "page": 143,
+          "children": []
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "level": "chapter",
+      "no": 3,
+      "name": "ការរំលោភលើទំនុកចិត្ត និងអំពើប្រហាក់ប្រហែល",
+      "page": 144,
+      "children": [
+       {
+        "level": "section",
+        "no": 1,
+        "name": "ការរំលោភលើទំនុកចិត្ត",
+        "page": 144,
+        "children": []
+       },
+       {
+        "level": "section",
+        "no": 2,
+        "name": "ការបង្វែរវត្ថុរឹបអូស ឬដាក់ធានា",
+        "page": 147,
+        "children": []
+       }
+      ]
+     },
+     {
+      "level": "chapter",
+      "no": 4,
+      "name": "បទល្មើសបំពេញបន្ថែម",
+      "page": 147,
+      "children": [
+       {
+        "level": "section",
+        "no": 1,
+        "name": "ការទទួលផលចោរកម្ម",
+        "page": 147,
+        "children": []
+       },
+       {
+        "level": "section",
+        "no": 2,
+        "name": "ការសំអាតប្រាក់",
+        "page": 150,
+        "children": []
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "level": "title",
+    "no": 2,
+    "name": "ការប៉ះពាល់ដល់ទ្រព្យសម្បត្តិ",
+    "page": 153,
+    "children": [
+     {
+      "level": "chapter",
+      "no": 1,
+      "name": "ការបំផ្លិចបំផ្លាញ ការធ្វើឱ្យទ្រុឌទ្រោម និងការធ្វើឱ្យខូចខាត",
+      "page": 153,
+      "children": [
+       {
+        "level": "section",
+        "no": 1,
+        "name": "ការបំផ្លិចបំផ្លាញ ការធ្វើឱ្យទ្រុឌទ្រោម និងការធ្វើឱ្យខូចខាត",
+        "page": 153,
+        "children": []
+       },
+       {
+        "level": "section",
+        "no": 2,
+        "name": "ការគំរាមកំហែងថានឹងធ្វើការបំផ្លិចបំផ្លាញ ធ្វើឱ្យន្នឌទ្រោម ឬធ្វើឱ្យខូចខាត",
+        "page": 158,
+        "children": []
+       }
+      ]
+     },
+     {
+      "level": "chapter",
+      "no": 2,
+      "name": "បទល្មើសក្នុងវិស័យព័ត៌មានវិទ្យា",
+      "page": 161,
+      "children": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "level": "book",
+  "no": 4,
+  "name": "បទល្មើសប្រឆាំងនឹងជាតិ",
+  "page": 163,
+  "children": [
+   {
+    "level": "title",
+    "no": 1,
+    "name": "ការប៉ះពាល់ដល់ស្ថាប័នចម្បងរបស់រដ្ឋ",
+    "page": 163,
+    "children": [
+     {
+      "level": "chapter",
+      "no": 1,
+      "name": "ការរំលោភបំពានដល់អង្គព្រះមហាក្សត្រ",
+      "page": 163,
+      "children": []
+     },
+     {
+      "level": "chapter",
+      "no": 2,
+      "name": "ការប៉ះពាល់ដល់សន្តិសុខនៃរដ្ឋ",
+      "page": 165,
+      "children": [
+       {
+        "level": "section",
+        "no": 1,
+        "name": "អំពើក្បត់ជាតិ និងចារកម្ម",
+        "page": 165,
+        "children": []
+       },
+       {
+        "level": "section",
+        "no": 2,
+        "name": "ឧបឃាត និងការរួមគំនិតក្បត់",
+        "page": 168,
+        "children": []
+       },
+       {
+        "level": "section",
+        "no": 3,
+        "name": "កុបកម្ម",
+        "page": 170,
+        "children": []
+       },
+       {
+        "level": "section",
+        "no": 4,
+        "name": "ការដណ្តើមយកអំណាចបញ្ជា និងការបង្កើតកងកម្លាំងប្រដាប់អាវុធ",
+        "page": 172,
+        "children": []
+       },
+       {
+        "level": "section",
+        "no": 5,
+        "name": "ការប៉ះពាល់ដល់សន្តិសុខនៃកងយោធពលខេមរភូមិ្",
+        "page": 175,
+        "children": []
+       },
+       {
+        "level": "section",
+        "no": 6,
+        "name": "ការប៉ះពាល់ដល់ការសម្ងាត់នៃការការពារជាតិ",
+        "page": 177,
+        "children": []
+       }
+      ]
+     },
+     {
+      "level": "chapter",
+      "no": 3,
+      "name": "ការប៉ះពាល់ដល់សន្តិសុខសាធារណៈ",
+      "page": 179,
+      "children": [
+       {
+        "level": "section",
+        "no": 1,
+        "name": "ក្រុមជនប្រដាប់អាវុធ",
+        "page": 179,
+        "children": []
+       },
+       {
+        "level": "section",
+        "no": 2,
+        "name": "បទល្មើសក្នុងវិស័យអាវុធ គ្រឿងផូទុ និងគ្រាប់រំសេវ",
+        "page": 181,
+        "children": []
+       },
+       {
+        "level": "section",
+        "no": 3,
+        "name": "ការញុះញង់ឱ្យប្រព្រឹត្តបទល្មើស",
+        "page": 184,
+        "children": []
+       },
+       {
+        "level": "section",
+        "no": 4,
+        "name": "សមាគមជនទុច្ចរិត",
+        "page": 185,
+        "children": []
+       }
+      ]
+     },
+     {
+      "level": "chapter",
+      "no": 4,
+      "name": "ការប៉ះពាល់ដល់អាជ្ញាធររបស់រដ្ឋ",
+      "page": 187,
+      "children": [
+       {
+        "level": "section",
+        "no": 1,
+        "name": "ការប្រមាថ និងការប្រឆាំងនឹងអ្នករាជការសាធារណៈ",
+        "page": 187,
+        "children": []
+       }
+      ]
+     },
+     {
+      "level": "chapter",
+      "no": 5,
+      "name": "ការប៉ះពាល់ដល់សាសនារបស់រដ្ឋ",
+      "page": 189,
+      "children": [
+       {
+        "level": "section",
+        "no": 1,
+        "name": "បទល្មើសប៉ះពាល់ដល់ព្រះពុទ្ធសាសនា",
+        "page": 189,
+        "children": []
+       },
+       {
+        "level": "section",
+        "no": 2,
+        "name": "បទល្មើសប្រឆាំងនឹងព្រះសង្ឃ ជូនថី និងតាជី",
+        "page": 190,
+        "children": [
+         {
+          "level": "subsection",
+          "no": 1,
+          "name": "អំពើហិង្សា",
+          "page": 190,
+          "children": []
+         },
+         {
+          "level": "subsection",
+          "no": 2,
+          "name": "ការប្រមាថ",
+          "page": 191,
+          "children": []
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "level": "title",
+    "no": 2,
+    "name": "ការប៉ះពាល់ដល់វិស័យយុត្តិធម៌",
+    "page": 192,
+    "children": [
+     {
+      "level": "chapter",
+      "no": 1,
+      "name": "ការប៉ះពាល់ដល់ស្ថាប័នយុត្តិធម៌",
+      "page": 192,
+      "children": [
+       {
+        "level": "section",
+        "no": 1,
+        "name": "អំពើពុករលួយនៃចៅក្រម",
+        "page": 192,
+        "children": []
+       },
+       {
+        "level": "section",
+        "no": 2,
+        "name": "ការប៉ះពាល់ដល់សេចក្តីសម្រេចរបស់តុលាការ",
+        "page": 194,
+        "children": []
+       }
+      ]
+     },
+     {
+      "level": "chapter",
+      "no": 2,
+      "name": "ការប៉ះពាល់ដល់សកម្មភាពរបស់តុលាការ",
+      "page": 196,
+      "children": [
+       {
+        "level": "section",
+        "no": 1,
+        "name": "ការប្តឹងទៅតុលាការ",
+        "page": 196,
+        "children": []
+       },
+       {
+        "level": "section",
+        "no": 2,
+        "name": "ការស្រាវជ្រាវរកភស្តុតាង",
+        "page": 198,
+        "children": []
+       },
+       {
+        "level": "section",
+        "no": 3,
+        "name": "ការបកប្រែ និងកោសលវិច័យ",
+        "page": 203,
+        "children": []
+       },
+       {
+        "level": "section",
+        "no": 4,
+        "name": "ការប៉ុនប៉ង និងទោសបន្ថែម",
+        "page": 205,
+        "children": []
+       }
+      ]
+     },
+     {
+      "level": "chapter",
+      "no": 3,
+      "name": "បទល្មើសទាក់ទងដល់ការឃុំឃាំង",
+      "page": 208,
+      "children": [
+       {
+        "level": "section",
+        "no": 1,
+        "name": "ការលួចរត់",
+        "page": 208,
+        "children": []
+       },
+       {
+        "level": "section",
+        "no": 2,
+        "name": "ស្ថានទម្ងន់ទោសនៃអំពើលួចរត់ និងការជួយសម្រួលដល់ការលួចរត់",
+        "page": 209,
+        "children": []
+       },
+       {
+        "level": "section",
+        "no": 3,
+        "name": "ការប្រគល់ដោយខុសច្បាប់នូវទឹកប្រាក់ និងវត្ថ ដល់ជនជាប់ឃុំ",
+        "page": 211,
+        "children": []
+       },
+       {
+        "level": "section",
+        "no": 4,
+        "name": "ការប៉ុនប៉ង និងទណ្ឌកម្ម",
+        "page": 212,
+        "children": []
+       }
+      ]
+     },
+     {
+      "level": "chapter",
+      "no": 4,
+      "name": "ការបំពានលើសេចក្តីសម្រេចខ្លះៗ របស់តុលាការ",
+      "page": 213,
+      "children": []
+     }
+    ]
+   },
+   {
+    "level": "title",
+    "no": 3,
+    "name": "ការប៉ះពាល់ដល់ដំណើរការរបស់រដ្ឋបាលសាធារណៈ",
+    "page": 216,
+    "children": [
+     {
+      "level": "chapter",
+      "no": 1,
+      "name": "ការប៉ះពាល់ដល់រដ្ឋបាលសាធារណៈ ដោយអ្នកតំណាងអាជ្ញាធរសាធារណៈ",
+      "page": 216,
+      "children": [
+       {
+        "level": "section",
+        "no": 1,
+        "name": "ការមិនគោរពភារកិច",
+        "page": 216,
+        "children": [
+         {
+          "level": "subsection",
+          "no": 1,
+          "name": "ការរំលោភអំណាច",
+          "page": 216,
+          "children": []
+         },
+         {
+          "level": "subsection",
+          "no": 2,
+          "name": "ការរំលោភអំណាចប្រឆាំងនឹងបុគ្គល",
+          "page": 217,
+          "children": []
+         }
+        ]
+       },
+       {
+        "level": "section",
+        "no": 2,
+        "name": "អំពើពុករលួយ និងបទល្មើសប្រហាក់ប្រហែល",
+        "page": 218,
+        "children": [
+         {
+          "level": "subsection",
+          "no": 1,
+          "name": "វីភិក្រម",
+          "page": 218,
+          "children": []
+         },
+         {
+          "level": "subsection",
+          "no": 2,
+          "name": "អំពើស៊ីសំណួក",
+          "page": 219,
+          "children": []
+         },
+         {
+          "level": "subsection",
+          "no": 3,
+          "name": "ជំនួញឥទ្ធិពលអកម្ម",
+          "page": 219,
+          "children": []
+         },
+         {
+          "level": "subsection",
+          "no": 4,
+          "name": "ការកេងយកផលប្រយោជន៍ដោយខុសច្បាប់",
+          "page": 220,
+          "children": []
+         },
+         {
+          "level": "subsection",
+          "no": 5,
+          "name": "បក្ខានុគ្រោះ",
+          "page": 220,
+          "children": []
+         }
+        ]
+       },
+       {
+        "level": "section",
+        "no": 3,
+        "name": "ការបំផ្លាញ និងការតៃបំបាត់",
+        "page": 221,
+        "children": []
+       },
+       {
+        "level": "section",
+        "no": 4,
+        "name": "ការប៉ុនប៉ង និងទណ្ឌកម្ម",
+        "page": 221,
+        "children": []
+       }
+      ]
+     },
+     {
+      "level": "chapter",
+      "no": 2,
+      "name": "ការប៉ះពាល់ដល់រដ្ឋបាលសាធារណៈ ធ្វើឡើងដោយបុគ្គលឯកជន",
+      "page": 223,
+      "children": [
+       {
+        "level": "section",
+        "no": 1,
+        "name": "អំពើពុករលួយ និងបទល្មើសប្រហាក់ប្រហែល",
+        "page": 223,
+        "children": [
+         {
+          "level": "subsection",
+          "no": 1,
+          "name": "អំពើសូកប៉ាន់",
+          "page": 223,
+          "children": []
+         },
+         {
+          "level": "subsection",
+          "no": 2,
+          "name": "ជំនួញឥទ្ធិពលសកម្ម",
+          "page": 223,
+          "children": []
+         },
+         {
+          "level": "subsection",
+          "no": 3,
+          "name": "អំពើសម្ងួតគំរាម",
+          "page": 224,
+          "children": []
+         }
+        ]
+       },
+       {
+        "level": "section",
+        "no": 2,
+        "name": "ការបំផ្លាញ និងការគៃបំបាត់",
+        "page": 224,
+        "children": []
+       },
+       {
+        "level": "section",
+        "no": 3,
+        "name": "ការជ្រៀតជ្រែកក្នុងមុខងារសាធារណៈ និងតំណែងផ្លូវការ",
+        "page": 225,
+        "children": []
+       },
+       {
+        "level": "section",
+        "no": 4,
+        "name": "ការបំលាស់ទីនៃគោលព្រំ",
+        "page": 228,
+        "children": []
+       },
+       {
+        "level": "section",
+        "no": 5,
+        "name": "ការប៉ុនប៉ង និងទណ្ឌកម្ម",
+        "page": 228,
+        "children": []
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "level": "title",
+    "no": 4,
+    "name": "ការប៉ះពាល់ដល់ទំនុកចិត្តសាធារណៈ",
+    "page": 231,
+    "children": [
+     {
+      "level": "chapter",
+      "no": 1,
+      "name": "ការក្លែងប្ន្តំ",
+      "page": 231,
+      "children": [
+       {
+        "level": "section",
+        "no": 1,
+        "name": "ការក្លែងបន្លំឯកសារ",
+        "page": 231,
+        "children": []
+       },
+       {
+        "level": "section",
+        "no": 2,
+        "name": "រូបិយវត្ថ និងរូបិយបណ្ណក្លែង",
+        "page": 237,
+        "children": []
+       }
+      ]
+     },
+     {
+      "level": "chapter",
+      "no": 2,
+      "name": "ការក្លែងឯកសាររបស់អាជ្ញាធរសាធារណៈ",
+      "page": 240,
+      "children": [
+       {
+        "level": "section",
+        "no": 1,
+        "name": "ការក្លែងមូលបត្រដ្ឋ និងតែមប្រិប្រៃសណីយ៍",
+        "page": 240,
+        "children": []
+       },
+       {
+        "level": "section",
+        "no": 2,
+        "name": "ការក្លែងបន្លំសញ្ញាសម្គាល់របស់អាជ្ញាធរ",
+        "page": 242,
+        "children": []
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "level": "book",
+  "no": 5,
+  "name": "អន្តរប្បញ្ញត្ិ",
+  "page": 245,
+  "children": [
+   {
+    "level": "chapter",
+    "no": 1,
+    "name": "អន្តរប្បញ្នត្ិ",
+    "page": 245,
+    "children": []
+   }
+  ]
+ },
+ {
+  "level": "book",
+  "no": 6,
+  "name": "អវសានប្បញ្ញ្ិ",
+  "page": 246,
+  "children": [
+   {
+    "level": "chapter",
+    "no": 1,
+    "name": "អវសានប្បញ្ញ្ី",
+    "page": 246,
+    "children": []
+   }
+  ]
+ }
+]
