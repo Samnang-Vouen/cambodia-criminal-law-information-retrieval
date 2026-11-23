@@ -125,7 +125,19 @@ backend/
 │   ├── ocr.py                stage 2
 │   ├── clean.py              stage 3
 │   ├── segment.py            stage 4
-│   └── build_index.py        stage 5 (search index, next step)
+│   ├── analyzer.py           text → index terms, shared with the API (docs/text_analysis.md)
+│   ├── build_index.py        stage 5: inverted index → backend/index/index.json
+│   ├── search.py             BM25F / BM25+bigrams / TF-IDF / cosine ranking (docs/indexing_and_ranking.md)
+│   ├── boolean.py            AND / OR / NOT queries (docs/boolean_retrieval.md)
+│   └── citation_graph.py     stage 6: citations → PageRank / HITS (docs/citation_graph.md)
+├── evaluation/               test queries, labels, experiments and results (committed)
+│   ├── queries.json          24 test queries shared by all experiments
+│   ├── compare_models.py     TF-IDF vs cosine vs BM25 (docs/model_comparison.md)
+│   ├── pool.py               labelling sheet from the models' results (docs/evaluation.md)
+│   ├── evaluate.py           P / R / F1 / MAP / nDCG, significance, failure analysis
+│   ├── metrics.py
+│   ├── labels/               labels.csv (filled in by the team), pool.json, qrels.json
+│   └── results/
 ├── data/
 │   ├── raw/                  original PDF, never modified
 │   ├── interim/              regenerable intermediate files (gitignored)
@@ -416,7 +428,7 @@ Nested tree: `[{level, no, name, page, children: [...]}, ...]` for book → titl
 | Layout thresholds are specific to this PDF | pipeline must be re-tuned for other documents | detect margins/indentation automatically from x-histograms |
 | Confidence scores are per-line minimums | many false "low confidence" flags | use mean or length-weighted confidence |
 
-**Next pipeline steps:** `build_index.py` (Khmer tokenization with khmernltk → inverted index + BM25), then a chunking step for RAG (one chunk per article, long articles split at paragraph/list boundaries, breadcrumb prepended).
+**Next pipeline steps:** Khmer tokenization (`analyzer.py`, see [text_analysis.md](text_analysis.md)) and the inverted index with BM25 (`build_index.py` + `search.py`, see [indexing_and_ranking.md](indexing_and_ranking.md)) are done. Next: evaluation with test queries, then a chunking step for RAG (one chunk per article, long articles split at paragraph/list boundaries, breadcrumb prepended).
 
 ---
 
