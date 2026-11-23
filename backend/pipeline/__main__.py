@@ -1,5 +1,5 @@
 import sys
-from pipeline import render_pages, ocr, clean, segment, build_index
+from pipeline import render_pages, ocr, clean, segment, build_index, citation_graph
 
 STAGES = {
     "render": render_pages.run,
@@ -7,6 +7,7 @@ STAGES = {
     "clean": clean.run,
     "segment": segment.run,
     "index": build_index.run,
+    "graph": citation_graph.run,
 }
 
 if __name__ == "__main__":
