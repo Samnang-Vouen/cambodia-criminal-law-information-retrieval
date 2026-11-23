@@ -1,0 +1,2350 @@
+{
+ "citations": [
+  {
+   "source": 21,
+   "target": 19,
+   "raw": "19",
+   "status": "verified",
+   "title_match": 0.973,
+   "context": " បេទឧក្រិដ្ឋ ឬបទមជ្ឈិមប្រព្រឹត្តដោយពលរដ្ឋខ្មែរ និងមាត្រា ២០ "
+  },
+  {
+   "source": 21,
+   "target": 20,
+   "raw": "20",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " ជនរងគ្រោះជាជនជាតិខ្មែរ "
+  },
+  {
+   "source": 55,
+   "target": 53,
+   "raw": "53",
+   "status": "verified",
+   "title_match": 0.938,
+   "context": "ប្រេភេទនៃទោសបន្ថែម "
+  },
+  {
+   "source": 71,
+   "target": 53,
+   "raw": "53",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " ប្រភេទនៃទោសបន្ថែម "
+  },
+  {
+   "source": 99,
+   "target": 100,
+   "raw": "100",
+   "status": "verified",
+   "title_match": 0.913,
+   "context": "កោរជំនួសមូលទោសដោយទោសបន្ថែម "
+  },
+  {
+   "source": 110,
+   "target": 109,
+   "raw": "109",
+   "status": "verified",
+   "title_match": 0.8,
+   "context": " កោរដកហូតការលូួរទោស។ "
+  },
+  {
+   "source": 115,
+   "target": 114,
+   "raw": "114",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " កោរដកហូតការលូរទោស "
+  },
+  {
+   "source": 145,
+   "target": 144,
+   "raw": "144",
+   "status": "verified",
+   "title_match": 0.867,
+   "context": " អេជ្ញាយុកាលនៃទោស "
+  },
+  {
+   "source": 152,
+   "target": 53,
+   "raw": "53",
+   "status": "verified",
+   "title_match": 0.938,
+   "context": " ប្រេភេទនៃទោសបន្ថែម "
+  },
+  {
+   "source": 153,
+   "target": 55,
+   "raw": "55",
+   "status": "verified",
+   "title_match": 0.955,
+   "context": " ឧិទ្ធិពលរដ្ឋដែលអាចដកបាន "
+  },
+  {
+   "source": 167,
+   "target": 168,
+   "raw": "168",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " ទទោសបន្ថែមអនុវត្តចំពោះនីតិបុគ្គល "
+  },
+  {
+   "source": 187,
+   "target": 42,
+   "raw": "42",
+   "status": "verified",
+   "title_match": 0.946,
+   "context": " កោរទទួលខុសត្រូវព្រហ្មទណ្ឌរបស់នីតិបុគ្គលា "
+  },
+  {
+   "source": 187,
+   "target": 183,
+   "raw": "183",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " បេទឧក្រិដ្ឋប្រល័យពូជសាសន៍ និងមាត្រា ១៨៥ បេទត្រៀមរៀបចំក្នុងប"
+  },
+  {
+   "source": 187,
+   "target": 185,
+   "raw": "185",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " បេទត្រៀមរៀបចំក្នុងបទឧក្រិដ្ឋប្រល័យពូជសាសន៍ "
+  },
+  {
+   "source": 187,
+   "target": 170,
+   "raw": "170",
+   "status": "verified",
+   "title_match": 0.939,
+   "context": " កោររិលាយ និងការជម្រះបញ្ជីនៃនីតិបុគ្គលក "
+  },
+  {
+   "source": 187,
+   "target": 171,
+   "raw": "171",
+   "status": "verified",
+   "title_match": 0.975,
+   "context": " ឱ្ស្ថិតនៅក្រោមការត្រួតពិនិត្យតាមដានរបស់តុលាការ "
+  },
+  {
+   "source": 187,
+   "target": 172,
+   "raw": "172",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " កោរហាមឃាត់ចំពោះការធ្វើសកម្មភាព។ "
+  },
+  {
+   "source": 187,
+   "target": 173,
+   "raw": "173",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " កោរបណ្តេញចេញពីលទ្ធកម្មសាធារណៈ "
+  },
+  {
+   "source": 187,
+   "target": 174,
+   "raw": "174",
+   "status": "verified",
+   "title_match": 0.978,
+   "context": " កោរហាមឃាត់ចំពោះការធ្វើអំពាវនាវជាសាធារណៈឱ្យធ្វើការសន្សំសំចៃ "
+  },
+  {
+   "source": 187,
+   "target": 180,
+   "raw": "180",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " កោរបិទផ្សាយសេចក្តីសម្រេច "
+  },
+  {
+   "source": 187,
+   "target": 181,
+   "raw": "181",
+   "status": "verified",
+   "title_match": 0.711,
+   "context": "ជាអាទិ៍ "
+  },
+  {
+   "source": 192,
+   "target": 42,
+   "raw": "42",
+   "status": "verified",
+   "title_match": 0.946,
+   "context": " កោរទទួលខុសត្រូវព្រហ្មទណ្ឌរបស់នីតិបុគ្គលា "
+  },
+  {
+   "source": 192,
+   "target": 188,
+   "raw": "188",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " បេទឧក្រិដ្ឋប្រឆាំងមនុស្សជាតិនិងមាត្រា ១៩០ បេទត្រៀមរៀបចំក្នុ"
+  },
+  {
+   "source": 192,
+   "target": 190,
+   "raw": "190",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " បេទត្រៀមរៀបចំក្នុងបទឧក្រិដ្ឋប្រឆាំងមនុស្សជាតិ "
+  },
+  {
+   "source": 192,
+   "target": 170,
+   "raw": "170",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " កោររំលាយ និងការជម្រះបញ្ជីនៃនីតិបុគ្គលា "
+  },
+  {
+   "source": 192,
+   "target": 171,
+   "raw": "171",
+   "status": "verified",
+   "title_match": 0.95,
+   "context": " ឲ្ស្ថិតនៅក្រោមការត្រួតពិនិត្យតាមដានរបស់តុលាការ "
+  },
+  {
+   "source": 192,
+   "target": 172,
+   "raw": "172",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " កោរហាមឃាត់ចំពោះការធ្វើសកម្មភាព "
+  },
+  {
+   "source": 192,
+   "target": 173,
+   "raw": "173",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " កោរបណ្តេញចេញពីលទ្ធកម្មសាធារណៈ។ "
+  },
+  {
+   "source": 192,
+   "target": 174,
+   "raw": "174",
+   "status": "verified",
+   "title_match": 0.978,
+   "context": " កោរហាមឃាត់ចំពោះការធ្វើអំពាវនាវជាសាធារណៈឱ្យធ្វើការសន្សំសំចៃ។"
+  },
+  {
+   "source": 192,
+   "target": 180,
+   "raw": "180",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " កោរបិទផ្សាយសេចក្តីសម្រេច។ "
+  },
+  {
+   "source": 192,
+   "target": 181,
+   "raw": "181",
+   "status": "verified",
+   "title_match": 0.956,
+   "context": " កោរផ្សាយសេចក្តីសម្រេចតាមមធ្យោបាយទូរគមនាគមន៍សោតទស្សន៍ជាអាទិ៍"
+  },
+  {
+   "source": 198,
+   "target": 42,
+   "raw": "42",
+   "status": "verified",
+   "title_match": 0.946,
+   "context": " កោរទទួលខុសត្រូវព្រហ្មទណ្ឌរបស់នីតិបុគ្គល "
+  },
+  {
+   "source": 198,
+   "target": 193,
+   "raw": "193",
+   "status": "verified",
+   "title_match": 0.938,
+   "context": " បេទឧក្រិដ្ឋសង្គ្រាម មាត្រា ១៩៤បេទឧក្រិដ្ឋសង្គ្រាមផ្សេងទៀត ន"
+  },
+  {
+   "source": 198,
+   "target": 194,
+   "raw": "194",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": "បេទឧក្រិដ្ឋសង្គ្រាមផ្សេងទៀត និងមាត្រា ១៩៦ បេទត្រៀមរៀបចំក្នុង"
+  },
+  {
+   "source": 198,
+   "target": 196,
+   "raw": "196",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " បេទត្រៀមរៀបចំក្នុងបទឧក្រិដ្ឋសង្គ្រាម "
+  },
+  {
+   "source": 198,
+   "target": 170,
+   "raw": "170",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " កោររំលាយ និងការជម្រះបញ្ជីនៃនីតិបុគ្គលា "
+  },
+  {
+   "source": 198,
+   "target": 171,
+   "raw": "171",
+   "status": "verified",
+   "title_match": 0.974,
+   "context": " ស្ស្ថិតនៅក្រោមការត្រួតពិនិត្យតាមដានរបស់តុលាការ "
+  },
+  {
+   "source": 198,
+   "target": 172,
+   "raw": "172",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " កោរហាមឃាត់ចំពោះការធ្វើសកម្មភាព "
+  },
+  {
+   "source": 198,
+   "target": 173,
+   "raw": "173",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " ៖បណ្តេញចេញពីលទ្ធកម្មសាធារណៈ។ "
+  },
+  {
+   "source": 198,
+   "target": 174,
+   "raw": "174",
+   "status": "verified",
+   "title_match": 0.933,
+   "context": " កោរហាមឃាត់ចំពោះការធ្វើអំពាវនាវជាសាធារណៈឱ្យធ្វើការសន្សំសំទៃទ"
+  },
+  {
+   "source": 198,
+   "target": 180,
+   "raw": "180",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " កោរបិទផ្សាយសេចក្តីសម្រេច "
+  },
+  {
+   "source": 198,
+   "target": 181,
+   "raw": "181",
+   "status": "verified",
+   "title_match": 0.711,
+   "context": "ជាអាទិ៍ "
+  },
+  {
+   "source": 199,
+   "target": 200,
+   "raw": "200",
+   "status": "verified",
+   "title_match": 0.947,
+   "context": " បេទឃាតកម្មគិតទុកជាមុនដល់មាត្រា ២០៥ បេទឃាតកម្មដោយមានទារុណកម្"
+  },
+  {
+   "source": 199,
+   "target": 201,
+   "raw": "",
+   "status": "range",
+   "title_match": 0.0,
+   "context": "200-205"
+  },
+  {
+   "source": 199,
+   "target": 202,
+   "raw": "",
+   "status": "range",
+   "title_match": 0.0,
+   "context": "200-205"
+  },
+  {
+   "source": 199,
+   "target": 203,
+   "raw": "",
+   "status": "range",
+   "title_match": 0.0,
+   "context": "200-205"
+  },
+  {
+   "source": 199,
+   "target": 204,
+   "raw": "",
+   "status": "range",
+   "title_match": 0.0,
+   "context": "200-205"
+  },
+  {
+   "source": 199,
+   "target": 205,
+   "raw": "205",
+   "status": "verified",
+   "title_match": 0.978,
+   "context": " បេទឃាតកម្មដោយមានទារុណកម្ម អំពើឃោរឃៅ ឬអំពើរំលោភសេពសន្ថវៈ "
+  },
+  {
+   "source": 209,
+   "target": 42,
+   "raw": "42",
+   "status": "verified",
+   "title_match": 0.946,
+   "context": " កោរទទួលខុសត្រូវព្រហ្មទណ្ឌរបស់នីតិបុគ្គលា "
+  },
+  {
+   "source": 209,
+   "target": 207,
+   "raw": "207",
+   "status": "verified",
+   "title_match": 0.947,
+   "context": " បេទមនុស្សឃាតដោយអចេតនា"
+  },
+  {
+   "source": 209,
+   "target": 170,
+   "raw": "170",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " កោររំលាយ និងការជម្រះបញ្ជីនៃនីតិបុគ្គល "
+  },
+  {
+   "source": 209,
+   "target": 171,
+   "raw": "171",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " ស្ថិតនៅក្រោមការត្រួតពិនិត្យតាមដានរបស់តុលាការ "
+  },
+  {
+   "source": 209,
+   "target": 172,
+   "raw": "172",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " កោរហាមឃាត់ចំពោះការធ្វើសកម្មភាព "
+  },
+  {
+   "source": 209,
+   "target": 176,
+   "raw": "176",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": "កោរបិទគ្រឹះស្ថាន "
+  },
+  {
+   "source": 209,
+   "target": 177,
+   "raw": "177",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " កោរហាមឃាត់ចំពោះការធ្វើអាជីវកម្មលើគ្រឹះស្ថានរេ "
+  },
+  {
+   "source": 209,
+   "target": 180,
+   "raw": "180",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " កោរបិទផ្សាយសេចក្តីសម្រេច។ "
+  },
+  {
+   "source": 209,
+   "target": 181,
+   "raw": "181",
+   "status": "verified",
+   "title_match": 0.956,
+   "context": " កោរផ្សាយសេចក្តីសម្រេចតាមមធ្យោបាយទូរគមនាគមន៍សោតទស្សន៍ជាអាទិ៍"
+  },
+  {
+   "source": 211,
+   "target": 210,
+   "raw": "210",
+   "status": "verified",
+   "title_match": 0.864,
+   "context": " បេទទារុណកម្ម និងអំពើឃោរឃៅ "
+  },
+  {
+   "source": 212,
+   "target": 210,
+   "raw": "210",
+   "status": "verified",
+   "title_match": 0.864,
+   "context": " បេទទារុណកម្ម និងអំពើឃោរឃៅ "
+  },
+  {
+   "source": 213,
+   "target": 210,
+   "raw": "210",
+   "status": "verified",
+   "title_match": 0.773,
+   "context": " បេទទារុណកម្ម និងអំពេឃោរឃៅ "
+  },
+  {
+   "source": 214,
+   "target": 210,
+   "raw": "210",
+   "status": "verified",
+   "title_match": 0.864,
+   "context": " បេទទារុណកម្ម និងអំពើឃោរឃៅ "
+  },
+  {
+   "source": 215,
+   "target": 210,
+   "raw": "210",
+   "status": "verified",
+   "title_match": 0.864,
+   "context": " បេទទារុណកម្ម និងអំពើឃោរឃៅ "
+  },
+  {
+   "source": 230,
+   "target": 42,
+   "raw": "42",
+   "status": "verified",
+   "title_match": 0.946,
+   "context": " កោរទទួលខុសត្រូវព្រហ្មទណ្ឌរបស់នីតិបុគ្គលា "
+  },
+  {
+   "source": 230,
+   "target": 226,
+   "raw": "226",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " កោរចាត់ទុកការផ្តល់អាហារដែលមានសារជាតិពុលដូចជាអំពើហិង្សាដោយចេ"
+  },
+  {
+   "source": 230,
+   "target": 227,
+   "raw": "227",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " កោរចាត់ទុកការបញ្ចូលសារជាតិពុលក្នុងទឹកសម្រាប់បរិភោគ ដូចជាអំព"
+  },
+  {
+   "source": 230,
+   "target": 170,
+   "raw": "170",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " កោររំលាយ និងការជម្រះបញ្ជីនៃនីតិបុគ្គលា "
+  },
+  {
+   "source": 230,
+   "target": 171,
+   "raw": "171",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " កោរដាក់ឱ្យស្ថិតនៅក្រោមការត្រួតពិនិត្យតាមដានរបស់តុលាការ "
+  },
+  {
+   "source": 230,
+   "target": 172,
+   "raw": "172",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " កោរហាមឃាត់ចំពោះការធ្វើសកម្មភាព "
+  },
+  {
+   "source": 230,
+   "target": 173,
+   "raw": "173",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " កោរបណ្តេញចេញពីលទ្ធកម្មសាធារណៈ "
+  },
+  {
+   "source": 230,
+   "target": 174,
+   "raw": "174",
+   "status": "verified",
+   "title_match": 0.956,
+   "context": " កោរហាមឃាត់ចំពោះការធ្វើអំពាវនាវជាសាធារណៈឱ្យធ្វើការសន្សំសីចៃ។"
+  },
+  {
+   "source": 230,
+   "target": 176,
+   "raw": "176",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " កោរបិទគ្រឹះស្ថាន "
+  },
+  {
+   "source": 230,
+   "target": 177,
+   "raw": "177",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " កោរហាមឃាត់ចំពោះការធ្វើអាជីវកម្មលើគ្រឹះស្ថាន "
+  },
+  {
+   "source": 230,
+   "target": 178,
+   "raw": "178",
+   "status": "verified",
+   "title_match": 0.947,
+   "context": " កោររឹបអូសកម្មសិទ្ធ ការលក់ ការបំផ្លាញចោលវត្ថុរឹបអូសនី និងមាត"
+  },
+  {
+   "source": 230,
+   "target": 179,
+   "raw": "179",
+   "status": "verified",
+   "title_match": 0.826,
+   "context": "កោររឹបអូស និងសិទ្ធិគតិយជន "
+  },
+  {
+   "source": 230,
+   "target": 178,
+   "raw": "178",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " កោររឹបអូសកម្មសពទ្ី ការលក់ ការបំផ្លាញចោលវត្ថុរឹបអូសននិង មាត្"
+  },
+  {
+   "source": 230,
+   "target": 179,
+   "raw": "179",
+   "status": "verified",
+   "title_match": 0.913,
+   "context": " កោររឹបអូស និងសិទ្ធិតតិយជន "
+  },
+  {
+   "source": 230,
+   "target": 178,
+   "raw": "178",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " កោររឹបអូសកម្មសិទ្ី ការលក់ ការបំផ្លាញចោលវត្ថុរឹបអូស និងមាត្រ"
+  },
+  {
+   "source": 230,
+   "target": 179,
+   "raw": "179",
+   "status": "verified",
+   "title_match": 0.826,
+   "context": " កោររឹបអូស និងសិទ្ធិគតិយជន "
+  },
+  {
+   "source": 230,
+   "target": 180,
+   "raw": "180",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " កោរបិទផ្សាយសេចក្តីសម្រេច។ "
+  },
+  {
+   "source": 230,
+   "target": 181,
+   "raw": "181",
+   "status": "verified",
+   "title_match": 0.956,
+   "context": " កោរផ្សាយសេចក្តីសម្រេចតាមមធ្យោបាយទូរគមនាគមន៍សោតទស្សន៍ជាអាទិ៍"
+  },
+  {
+   "source": 238,
+   "target": 42,
+   "raw": "42",
+   "status": "verified",
+   "title_match": 0.946,
+   "context": " កោរទទួលខុសត្រូវព្រហ្មទណ្ឌរបស់នីតិបុគ្គលា "
+  },
+  {
+   "source": 238,
+   "target": 236,
+   "raw": "236",
+   "status": "verified",
+   "title_match": 0.958,
+   "context": " បេទបង្កឱ្យមានរបួសដោយអចេតនាវ "
+  },
+  {
+   "source": 238,
+   "target": 170,
+   "raw": "170",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " កោររំលាយ និងការជម្រះបញ្ជីនៃនីតិបុគ្គល "
+  },
+  {
+   "source": 238,
+   "target": 171,
+   "raw": "171",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " ស្ថិតនៅក្រោមការត្រួតពិនិត្យតាមដានរបស់តុលាការ "
+  },
+  {
+   "source": 238,
+   "target": 172,
+   "raw": "172",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " កោរហាមឃាត់ចំពោះការធ្វើសកម្មភាព "
+  },
+  {
+   "source": 238,
+   "target": 176,
+   "raw": "176",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " កោរបិទគ្រឹះស្ថាន "
+  },
+  {
+   "source": 238,
+   "target": 177,
+   "raw": "177",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " កោរហាមឃាត់ចំពោះការធ្វើអាជីវកម្មលើគ្រឹះស្ថាន។ "
+  },
+  {
+   "source": 238,
+   "target": 180,
+   "raw": "180",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " កោរបិទផ្សាយសេចក្តីសម្រេច "
+  },
+  {
+   "source": 238,
+   "target": 181,
+   "raw": "181",
+   "status": "verified",
+   "title_match": 0.956,
+   "context": " កោរផ្សាយសេចក្តីសម្រេចតាមមធ្យោបាយទូរគមនាគមន៍សោតទស្សន៍ជាអាទិ៍"
+  },
+  {
+   "source": 247,
+   "target": 246,
+   "raw": "246",
+   "status": "verified",
+   "title_match": 0.941,
+   "context": " បេទប្រទូស្តកេរខ្មាស "
+  },
+  {
+   "source": 248,
+   "target": 246,
+   "raw": "246",
+   "status": "verified",
+   "title_match": 0.941,
+   "context": " បេទប្រទូស្តកេរខ្មាសា "
+  },
+  {
+   "source": 257,
+   "target": 256,
+   "raw": "256",
+   "status": "verified",
+   "title_match": 0.968,
+   "context": " បេទដណ្តើមកាន់កាប់មធ្យោបាយដឹកជញ្ជូន "
+  },
+  {
+   "source": 258,
+   "target": 256,
+   "raw": "256",
+   "status": "verified",
+   "title_match": 0.968,
+   "context": " បេទដណ្តើមកាន់កាប់មធ្យោបាយដឹកជញ្ជូន "
+  },
+  {
+   "source": 259,
+   "target": 256,
+   "raw": "256",
+   "status": "verified",
+   "title_match": 0.968,
+   "context": " បេទដណ្តើមកាន់កាប់មធ្យោបាយដឹកជញ្ជូន "
+  },
+  {
+   "source": 267,
+   "target": 265,
+   "raw": "265",
+   "status": "verified",
+   "title_match": 0.944,
+   "context": "បេទបដិសេធក្នុងការផ្តល់ទ្រព្យសម្ប្ិ ឬសេវា។ "
+  },
+  {
+   "source": 268,
+   "target": 266,
+   "raw": "266",
+   "status": "verified",
+   "title_match": 0.919,
+   "context": " បេទផ្តល់ទ្រព្យសម្បត្ិ ឬសេវាដោយមានលក្ខខណ្ឌ "
+  },
+  {
+   "source": 269,
+   "target": 265,
+   "raw": "265",
+   "status": "verified",
+   "title_match": 0.889,
+   "context": " បេទបដិសេធក្នុងការផ្តល់ទ្រព្យសម្បត្ត ឬសេវាទ "
+  },
+  {
+   "source": 270,
+   "target": 265,
+   "raw": "265",
+   "status": "verified",
+   "title_match": 0.972,
+   "context": " បេទបដិសេធក្នុងការផ្តល់ទ្រព្យសម្ប្តិ ឬសេវាទ "
+  },
+  {
+   "source": 273,
+   "target": 42,
+   "raw": "42",
+   "status": "verified",
+   "title_match": 0.946,
+   "context": " កោរទទួលខុសត្រូវព្រហ្មទណ្ឌរបស់នីតិបុគ្គល "
+  },
+  {
+   "source": 273,
+   "target": 265,
+   "raw": "265",
+   "status": "verified",
+   "title_match": 0.972,
+   "context": " បេទបដិសេធក្នុងការផ្តល់ទ្រព្យសម្ប្តិឬសេវា និងមាត្រា ២៦៩ បេទប"
+  },
+  {
+   "source": 273,
+   "target": 269,
+   "raw": "269",
+   "status": "verified",
+   "title_match": 0.917,
+   "context": " បេទបណ្តេញចេញ ឬដកហូតដោយមូលហេតុនៃការរីសអើង១ "
+  },
+  {
+   "source": 273,
+   "target": 171,
+   "raw": "171",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " ស្ថិតនៅក្រោមការត្រួតពិនិត្យតាមដានរបស់តុលាការ "
+  },
+  {
+   "source": 273,
+   "target": 172,
+   "raw": "172",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " កោរហាមឃាត់ចំពោះការធ្វើសកម្មភាព "
+  },
+  {
+   "source": 273,
+   "target": 180,
+   "raw": "180",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " កោរបិទផ្សាយសេចក្តីសម្រេច "
+  },
+  {
+   "source": 273,
+   "target": 181,
+   "raw": "181",
+   "status": "verified",
+   "title_match": 0.956,
+   "context": " កោរផ្សាយសេចក្តីសម្រេចតាមមធ្យោបាយទូរគមនាគមន៍សោតទស្សន៍ជាអាទិ៍"
+  },
+  {
+   "source": 275,
+   "target": 274,
+   "raw": "274",
+   "status": "verified",
+   "title_match": 0.952,
+   "context": " បេទដាក់ឱ្យស្ថិតនៅក្នុងលក្ខខណ្ឌនៃការងារប៉ះពាល់ដល់សេចក្តីថ្លៃ"
+  },
+  {
+   "source": 277,
+   "target": 42,
+   "raw": "42",
+   "status": "verified",
+   "title_match": 0.946,
+   "context": " កោរទទួលខុសត្រូវព្រហ្មទណ្ឌរបស់នីតិបុគ្គល "
+  },
+  {
+   "source": 277,
+   "target": 274,
+   "raw": "274",
+   "status": "verified",
+   "title_match": 0.952,
+   "context": " បេទដាក់ឱ្យស្ថិតនៅក្នុងលក្ខខណ្ឌនៃការងារប៉ះពាល់ដល់សេចក្តីថ្លៃ"
+  },
+  {
+   "source": 277,
+   "target": 170,
+   "raw": "170",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " កោររំលាយ និងការជម្រះបញ្ជីនៃនីតិបុគ្គល "
+  },
+  {
+   "source": 277,
+   "target": 171,
+   "raw": "171",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " ស្ថិតនៅក្រោមការត្រួតពិនិត្យតាមដានរបស់តុលាការ "
+  },
+  {
+   "source": 277,
+   "target": 172,
+   "raw": "172",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " កោរហាមឃាត់ចំពោះការធ្វើសកម្មភាព "
+  },
+  {
+   "source": 277,
+   "target": 173,
+   "raw": "173",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " កោរបណ្តេញចេញពីលទ្ធកម្មសាធារណៈទ នៃ ក្រមនេះ ។\n៥- ការហាមឃាត់ចំ"
+  },
+  {
+   "source": 277,
+   "target": 174,
+   "raw": "174",
+   "status": "verified",
+   "title_match": 0.978,
+   "context": " កោរហាមឃាត់ចំពោះការធ្វើអំពាវនាវជាសាធារណៈឱ្យធ្វើការសន្សំសំចៃ "
+  },
+  {
+   "source": 277,
+   "target": 176,
+   "raw": "176",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " កោរបិទគ្រឹះស្ថានវ "
+  },
+  {
+   "source": 277,
+   "target": 177,
+   "raw": "177",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " កោរហាមឃាត់ចំពោះការធ្វើអាជីវកម្មលើគ្រឹះស្ថាន។ "
+  },
+  {
+   "source": 277,
+   "target": 178,
+   "raw": "178",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " កោររឹបអូសកម្មសវិទ្ី ការលក់ ការបំផ្លាញចោលវត្ថុរឹបអូសា និងមាត"
+  },
+  {
+   "source": 277,
+   "target": 179,
+   "raw": "179",
+   "status": "verified",
+   "title_match": 0.826,
+   "context": " កោររឹបអូស និងសិទ្ធិគតិយជន។ "
+  },
+  {
+   "source": 277,
+   "target": 178,
+   "raw": "178",
+   "status": "verified",
+   "title_match": 0.947,
+   "context": " កោររឹបអូសកម្មសិទ្ធ ការលក់ ការបំផ្លាញចោលវត្ថុរឹបអូសានិងមាត្រ"
+  },
+  {
+   "source": 277,
+   "target": 179,
+   "raw": "179",
+   "status": "verified",
+   "title_match": 0.913,
+   "context": " កោររឹបអូស និងសិទ្ធិតតិយជន "
+  },
+  {
+   "source": 277,
+   "target": 178,
+   "raw": "178",
+   "status": "verified",
+   "title_match": 0.947,
+   "context": " កោររឹបអូសកម្មសិទ្ ការលក់ ការបំផ្លាញចោលវត្ថុរឹបអូសន និងមាត្រ"
+  },
+  {
+   "source": 277,
+   "target": 179,
+   "raw": "179",
+   "status": "verified",
+   "title_match": 0.913,
+   "context": " កោររឹបអូស និងសិទ្ធិតតិយជន "
+  },
+  {
+   "source": 277,
+   "target": 180,
+   "raw": "180",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " កោរបិទផ្សាយសេចក្តីសម្រេច "
+  },
+  {
+   "source": 277,
+   "target": 181,
+   "raw": "181",
+   "status": "verified",
+   "title_match": 0.956,
+   "context": " កោរផ្សាយសេចក្តីសម្រេចតាមមធ្យោបាយទូរគមនាគមន៍សោតទស្សន៍ជាអាទិ៍"
+  },
+  {
+   "source": 280,
+   "target": 393,
+   "raw": "393",
+   "status": "verified",
+   "title_match": 0.978,
+   "context": "បេទរំលោភលើទំនុកចិត្តពិសេស ដោយអភិបាល ឬបុគ្គលផ្សេងទៀត "
+  },
+  {
+   "source": 281,
+   "target": 278,
+   "raw": "278",
+   "status": "verified",
+   "title_match": 0.889,
+   "context": " បេទស៊ីសំណួកនៃនិយោជិត និងមាត្រា ២៧៩ បេទសូកប៉ាន់ចំពោះនិយោជិត "
+  },
+  {
+   "source": 281,
+   "target": 279,
+   "raw": "279",
+   "status": "verified",
+   "title_match": 0.632,
+   "context": " បេទសូកប៉ាន់ចំពោះនិយោជិត "
+  },
+  {
+   "source": 283,
+   "target": 42,
+   "raw": "42",
+   "status": "verified",
+   "title_match": 0.946,
+   "context": " កោរទទួលខុសត្រូវព្រហ្មទណ្ឌរបស់នីតិបុគ្គលា "
+  },
+  {
+   "source": 283,
+   "target": 279,
+   "raw": "279",
+   "status": "verified",
+   "title_match": 0.632,
+   "context": " បេទសូកប៉ាន់ចំពោះនិយោជិត"
+  },
+  {
+   "source": 283,
+   "target": 170,
+   "raw": "170",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " កោររំលាយ និងការជម្រះបញ្ជីនៃនីតិបុគ្គល "
+  },
+  {
+   "source": 283,
+   "target": 171,
+   "raw": "171",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " ស្ថិតនៅក្រោមការត្រួតពិនិត្យតាមដានរបស់តុលាការ "
+  },
+  {
+   "source": 283,
+   "target": 172,
+   "raw": "172",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " កោរហាមឃាត់ចំពោះការធ្វើសកម្មភាព "
+  },
+  {
+   "source": 283,
+   "target": 173,
+   "raw": "173",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " កោរបណ្តេញចេញពីលទ្ធកម្មសាធារណៈ "
+  },
+  {
+   "source": 283,
+   "target": 174,
+   "raw": "174",
+   "status": "verified",
+   "title_match": 0.978,
+   "context": " កោរហាមឃាត់ចំពោះការធ្វើអំពាវនាវជាសាធារណៈឱ្យធ្វើការសន្សំសំចៃ "
+  },
+  {
+   "source": 283,
+   "target": 178,
+   "raw": "178",
+   "status": "verified",
+   "title_match": 0.947,
+   "context": " កោររឹបអូសកម្មសិ្ ការលក់ ការបំផ្លាញចោលវត្ថុរឹបអូសានិងមាត្រា "
+  },
+  {
+   "source": 283,
+   "target": 179,
+   "raw": "179",
+   "status": "verified",
+   "title_match": 0.913,
+   "context": " កោររឹបអូស និងសិទ្ធិតតិយជន "
+  },
+  {
+   "source": 283,
+   "target": 180,
+   "raw": "180",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " កោរបិទផ្សាយសេចក្តីសម្រេច "
+  },
+  {
+   "source": 283,
+   "target": 181,
+   "raw": "181",
+   "status": "verified",
+   "title_match": 0.956,
+   "context": " កោរផ្សាយសេចក្តីសម្រេចតាមមធ្យោបាយទូរគមនាគមន៍សោតទស្សន៍ជាអាទិ៍"
+  },
+  {
+   "source": 296,
+   "target": 42,
+   "raw": "42",
+   "status": "verified",
+   "title_match": 0.946,
+   "context": " កោរទទួលខុសត្រូវព្រហ្មទណ្ឌរបស់នីតិបុគ្គលា "
+  },
+  {
+   "source": 296,
+   "target": 170,
+   "raw": "170",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " កោររំលាយ និងការជម្រះបញ្ជីនៃនីតិបុគ្គល "
+  },
+  {
+   "source": 296,
+   "target": 171,
+   "raw": "171",
+   "status": "verified",
+   "title_match": 0.95,
+   "context": " ឲ្ស្ថិតនៅក្រោមការត្រួតពិនិត្យតាមដានរបស់តុលាការ "
+  },
+  {
+   "source": 296,
+   "target": 172,
+   "raw": "172",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " កោរហាមឃាត់ចំពោះការធ្វើសកម្មភាព។ "
+  },
+  {
+   "source": 296,
+   "target": 176,
+   "raw": "176",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " កោរបិទគ្រឹះស្ថាន។ "
+  },
+  {
+   "source": 296,
+   "target": 177,
+   "raw": "177",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " កោរហាមឃាត់ចំពោះការធ្វើអាជីវកម្មលើគ្រឹះស្ថាន។ "
+  },
+  {
+   "source": 296,
+   "target": 178,
+   "raw": "178",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " កោររឹបអូសកម្មសិទ្ី ការលក់ ការបំផ្លាញចោលវត្ថុរឹបអូស និងមាត្រ"
+  },
+  {
+   "source": 296,
+   "target": 179,
+   "raw": "179",
+   "status": "verified",
+   "title_match": 0.826,
+   "context": " កោររឹបអូស និងសិទ្ធិគតិយជន "
+  },
+  {
+   "source": 296,
+   "target": 178,
+   "raw": "178",
+   "status": "verified",
+   "title_match": 0.947,
+   "context": " កោររឹបអូសកម្មសិទ្ធ ការលក់ ការបំផ្លាញចោលវត្ថុរឹបអូសានិងមាត្រ"
+  },
+  {
+   "source": 296,
+   "target": 179,
+   "raw": "179",
+   "status": "verified",
+   "title_match": 0.913,
+   "context": " កោររឹបអូស និងសិទ្ធិតតិយជន "
+  },
+  {
+   "source": 296,
+   "target": 178,
+   "raw": "178",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " កោររឹបអូសកម្មសិទ្ី ការលក់ ការបំផ្លាញចោលវត្ថុរឹបអូស និងមាត្រ"
+  },
+  {
+   "source": 296,
+   "target": 179,
+   "raw": "179",
+   "status": "verified",
+   "title_match": 0.864,
+   "context": " កោររឹបអូស និងសិ្ធិតតិយជន "
+  },
+  {
+   "source": 296,
+   "target": 180,
+   "raw": "180",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " កោរបិទផ្សាយសេចក្តីសម្រេច "
+  },
+  {
+   "source": 296,
+   "target": 181,
+   "raw": "181",
+   "status": "verified",
+   "title_match": 0.756,
+   "context": " កោរផ្សាយសេចក្តីសម្រេចតាមមធ្យោបានជាអាទិ៍ "
+  },
+  {
+   "source": 315,
+   "target": 314,
+   "raw": "314",
+   "status": "verified",
+   "title_match": 0.909,
+   "context": " បេទប៉ះពាល់ដល់អាថ៌កំបាំងខាងវិជ្ជាជីវៈ "
+  },
+  {
+   "source": 336,
+   "target": 42,
+   "raw": "42",
+   "status": "verified",
+   "title_match": 0.946,
+   "context": " កោរទទួលខុសត្រូវព្រហ្មទណ្ឌរបស់នីតិបុគ្គលា "
+  },
+  {
+   "source": 336,
+   "target": 330,
+   "raw": "330",
+   "status": "verified",
+   "title_match": 0.947,
+   "context": " បេទញុះញង់ឱ្យបោះបង់ទារកា់មាត្រា ៣៣១ បេទអន្តរការរវាងអ្នកសុំកូ"
+  },
+  {
+   "source": 336,
+   "target": 331,
+   "raw": "331",
+   "status": "verified",
+   "title_match": 0.97,
+   "context": " បេទអន្តរការរវាងអ្នកសុំកូន និងអ្នកបោះបង់កូន និងមាត្រា៣៣២បេទអ"
+  },
+  {
+   "source": 336,
+   "target": 332,
+   "raw": "332",
+   "status": "verified",
+   "title_match": 0.886,
+   "context": "បេទអន្តរការរវាងអ្នកសុំកូន និងស្ត្តីពពោះ។ "
+  },
+  {
+   "source": 336,
+   "target": 171,
+   "raw": "171",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " កោរដាក់ឱ្យស្ថិតនៅក្រោមការត្រួតពិនិត្យតាមដានរបស់តុលាការ "
+  },
+  {
+   "source": 336,
+   "target": 172,
+   "raw": "172",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " កោរហាមឃាត់ចំពោះការធ្វើសកម្មភាព "
+  },
+  {
+   "source": 336,
+   "target": 176,
+   "raw": "176",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " កោរបិទគ្រឹះស្ថាន។ "
+  },
+  {
+   "source": 336,
+   "target": 178,
+   "raw": "178",
+   "status": "verified",
+   "title_match": 0.947,
+   "context": " កោររឹបអូសកម្មសិទ្ធ ការលក់ ការបំផ្លាញចោលវត្ថុរឹបអូសា និងមាត្"
+  },
+  {
+   "source": 336,
+   "target": 179,
+   "raw": "179",
+   "status": "verified",
+   "title_match": 0.913,
+   "context": " កោររឹបអូស និងសិទ្ធិតតិយជន "
+  },
+  {
+   "source": 336,
+   "target": 180,
+   "raw": "180",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " កោរបិទផ្សាយសេចក្តីសម្រេច "
+  },
+  {
+   "source": 336,
+   "target": 181,
+   "raw": "181",
+   "status": "verified",
+   "title_match": 0.956,
+   "context": " កោរផ្សាយសេចក្តីសម្រេចតាមមធ្យោបាយទូរគមនាគមន៍សោតទស្សន៍ជាអាទិ៍"
+  },
+  {
+   "source": 338,
+   "target": 337,
+   "raw": "337",
+   "status": "verified",
+   "title_match": 0.976,
+   "context": " បេទបង្អត់អាហារ ឬគ្មានការថែទាំអនីតិជនអាយុតិចជាង ១៥ ឆ្នាំ "
+  },
+  {
+   "source": 340,
+   "target": 339,
+   "raw": "339",
+   "status": "verified",
+   "title_match": 0.959,
+   "context": " បេទដាក់អនីតិជនឱ្យស្ថិតនៅក្នុងលក្ខខណ្ឌការងារដែលបណ្តាលឱ្យខូចស"
+  },
+  {
+   "source": 342,
+   "target": 341,
+   "raw": "341",
+   "status": "verified",
+   "title_match": 0.943,
+   "context": " បេទអាសប្រព្រឹត្តទៅលើអនីតិជនអាយុតិចជាង ១៥ ឆ្នាំ "
+  },
+  {
+   "source": 409,
+   "target": 42,
+   "raw": "42",
+   "status": "verified",
+   "title_match": 0.946,
+   "context": " កោរទទួលខុសត្រូវព្រហ្មទណ្ឌរបស់នីតិបុគ្គល "
+  },
+  {
+   "source": 409,
+   "target": 404,
+   "raw": "404",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " និយមន័យនៃការសំអាតប្រាក់"
+  },
+  {
+   "source": 409,
+   "target": 170,
+   "raw": "170",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " កោររំលាយ និងការជម្រះបញ្ជីនៃនីតិបុគ្គលក "
+  },
+  {
+   "source": 409,
+   "target": 171,
+   "raw": "171",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " ស្ថិតនៅក្រោមការត្រួតពិនិត្យតាមដានរបស់តុលាការ "
+  },
+  {
+   "source": 409,
+   "target": 172,
+   "raw": "172",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " កោរហាមឃាត់ចំពោះការធ្វើសកម្មភាព "
+  },
+  {
+   "source": 409,
+   "target": 173,
+   "raw": "173",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " កោរបណ្តេញចេញពីលទ្ធកម្មសាធារណៈ។ "
+  },
+  {
+   "source": 409,
+   "target": 174,
+   "raw": "174",
+   "status": "verified",
+   "title_match": 0.978,
+   "context": " កោរហាមឃាត់ចំពោះការធ្វើអំពាវនាវជាសាធារណៈឱ្យធ្វើការសន្សំសំចៃទ"
+  },
+  {
+   "source": 409,
+   "target": 178,
+   "raw": "178",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " កោររឹបអូសកម្មសិទ្ី ការលក់ ការបំផ្លាញចោលវត្ថុរឹបអូសានិងមាត្រ"
+  },
+  {
+   "source": 409,
+   "target": 179,
+   "raw": "179",
+   "status": "verified",
+   "title_match": 0.913,
+   "context": " កោររឹបអូស និងសិទ្ធិតតិយជន "
+  },
+  {
+   "source": 409,
+   "target": 178,
+   "raw": "178",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " កោររឹបអូសកម្មសិទ្ី ការលក់ ការបំផ្លាញចោលវត្ថុរឹបអូស និងមាត្រ"
+  },
+  {
+   "source": 409,
+   "target": 179,
+   "raw": "179",
+   "status": "verified",
+   "title_match": 0.826,
+   "context": " កោររឹបអូស និងសិទ្ធិគតិយជន "
+  },
+  {
+   "source": 409,
+   "target": 180,
+   "raw": "180",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " កោរបិទផ្សាយសេចក្តីសម្រេច "
+  },
+  {
+   "source": 409,
+   "target": 181,
+   "raw": "181",
+   "status": "verified",
+   "title_match": 0.956,
+   "context": " កោរផ្សាយសេចក្តីសម្រេចតាមមធ្យោបាយទូរគមនាគមន៍សោតទស្សន៍ជាអាទិ៍"
+  },
+  {
+   "source": 411,
+   "target": 410,
+   "raw": "410",
+   "status": "verified",
+   "title_match": 0.955,
+   "context": " បេទធ្វើឱ្យខូចខាតដោយចេតនា"
+  },
+  {
+   "source": 412,
+   "target": 410,
+   "raw": "410",
+   "status": "verified",
+   "title_match": 0.955,
+   "context": " បេទធ្វើឱ្យខូចខាតដោយចេតនាក"
+  },
+  {
+   "source": 414,
+   "target": 413,
+   "raw": "413",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " ស្ថានទម្ងន់ទោសដោយសារការប្រើប្រាស់វិធីគ្រោះថ្នាក់ដល់បុគ្គល "
+  },
+  {
+   "source": 415,
+   "target": 413,
+   "raw": "413",
+   "status": "verified",
+   "title_match": 0.98,
+   "context": " ស្ថោានទម្ងន់ទោសដោយសារការប្រើប្រាស់វិធីគ្រោះថ្នាក់ដល់បុគ្គល "
+  },
+  {
+   "source": 416,
+   "target": 413,
+   "raw": "413",
+   "status": "verified",
+   "title_match": 0.98,
+   "context": " រ្ថានទម្ងន់ទោសដោយសារការប្រើប្រាស់វិធីគ្រោះថ្នាក់ដល់បុគ្គលា "
+  },
+  {
+   "source": 417,
+   "target": 413,
+   "raw": "413",
+   "status": "verified",
+   "title_match": 0.98,
+   "context": " សស្ថោានទម្ងន់ទោសដោយសារការប្រើប្រាស់វិធីគ្រោះថ្នាក់ដល់បុគ្គល"
+  },
+  {
+   "source": 421,
+   "target": 419,
+   "raw": "419",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " បេទធ្វើឱ្យខូចខាតផ្សេងទៀតដោយការខ្វះការប្រុងប្រយ័ត្ន ឬការមិនគ"
+  },
+  {
+   "source": 449,
+   "target": 448,
+   "raw": "448",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " បេទផ្តល់ព័ត៌មានមិនពិត ត្រូវបានផ្តន្ទាទោសដូចបទមជ្ឈិមខាងលើដែរ"
+  },
+  {
+   "source": 490,
+   "target": 489,
+   "raw": "489",
+   "status": "verified",
+   "title_match": 0.85,
+   "context": " បេទផលិត ឬទ្នៀចរាចរណ៍អាវុធសម្រាប់ប្រហារផ្សេងទៀត "
+  },
+  {
+   "source": 493,
+   "target": 491,
+   "raw": "491",
+   "status": "verified",
+   "title_match": 0.969,
+   "context": " បេទបោះបង់អាវុធក្នុងទីកន្លែងសាធារណៈទ "
+  },
+  {
+   "source": 495,
+   "target": 494,
+   "raw": "494",
+   "status": "verified",
+   "title_match": 0.962,
+   "context": " លេក្ខខណ្ឌអត្ថិភាពនៃការញុះញង់ "
+  },
+  {
+   "source": 496,
+   "target": 494,
+   "raw": "494",
+   "status": "verified",
+   "title_match": 0.962,
+   "context": " លេក្ខខណ្ឌអត្ថិភាពនៃការញុះញង់ "
+  },
+  {
+   "source": 516,
+   "target": 502,
+   "raw": "502",
+   "status": "verified",
+   "title_match": 0.857,
+   "context": " បេទប្រមាថ "
+  },
+  {
+   "source": 519,
+   "target": 42,
+   "raw": "42",
+   "status": "verified",
+   "title_match": 0.946,
+   "context": " កោរទទួលខុសត្រូវព្រហ្មទណ្ឌរបស់នីតិបុគ្គល "
+  },
+  {
+   "source": 519,
+   "target": 518,
+   "raw": "518",
+   "status": "verified",
+   "title_match": 0.95,
+   "context": " បេទសូកប៉ាន់ចំពោះចៅក្រម"
+  },
+  {
+   "source": 519,
+   "target": 170,
+   "raw": "170",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " កោររំលាយ និងការជម្រះ បញ្ជីនៃនីតិបុគ្គល "
+  },
+  {
+   "source": 519,
+   "target": 171,
+   "raw": "171",
+   "status": "verified",
+   "title_match": 0.95,
+   "context": " ឲ្ស្ថិតនៅក្រោមការត្រួតពិនិត្យតាមដានរបស់តុលាការ "
+  },
+  {
+   "source": 519,
+   "target": 172,
+   "raw": "172",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " កោរហាមឃាត់ចំពោះការធ្វើសកម្មភាព "
+  },
+  {
+   "source": 519,
+   "target": 173,
+   "raw": "173",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " កោរបណ្តេញចេញពីលទ្ធកម្មសាធារណៈ "
+  },
+  {
+   "source": 519,
+   "target": 174,
+   "raw": "174",
+   "status": "verified",
+   "title_match": 0.978,
+   "context": " កោរហាមឃាត់ចំពោះការធ្វើអំពាវនាវជាសាធារណៈឱ្យធ្វើការសន្សំសំចៃ "
+  },
+  {
+   "source": 519,
+   "target": 178,
+   "raw": "178",
+   "status": "verified",
+   "title_match": 0.974,
+   "context": " កោវរឹបអូសកម្មសិទី ការលក់ ការបំផ្លាញចោលវត្ថុរឹបអូសនីនិងមាត្រ"
+  },
+  {
+   "source": 519,
+   "target": 179,
+   "raw": "179",
+   "status": "verified",
+   "title_match": 0.913,
+   "context": " កោររឹបអូស និងសិទ្ធិតតិយជន "
+  },
+  {
+   "source": 519,
+   "target": 178,
+   "raw": "178",
+   "status": "verified",
+   "title_match": 0.947,
+   "context": " កោររឹបអូសកម្មសិទ្ធ ការលក់ ការបំផ្លាញចោលវត្ថុរឹបអូសា និងមាត្"
+  },
+  {
+   "source": 519,
+   "target": 179,
+   "raw": "179",
+   "status": "verified",
+   "title_match": 0.913,
+   "context": " កោររឹបអូស និងសិទ្ធិតតិយជន "
+  },
+  {
+   "source": 519,
+   "target": 180,
+   "raw": "180",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " កោរបិទផ្សាយសេចក្តីសម្រេច "
+  },
+  {
+   "source": 519,
+   "target": 181,
+   "raw": "181",
+   "status": "verified",
+   "title_match": 0.956,
+   "context": " កោរផ្សាយសេចក្តីសម្រេចតាមមធ្យោបាយទូរគមនាគមន៍សោតទស្សន៍ជាអាទិ៍"
+  },
+  {
+   "source": 525,
+   "target": 520,
+   "raw": "520",
+   "status": "verified",
+   "title_match": 0.972,
+   "context": " បេទបដិសេធការអនុវត្តសេចក្តីសម្រេចរបស់តុលាការ ដល់មាត្រា ៥២៤ ប"
+  },
+  {
+   "source": 525,
+   "target": 521,
+   "raw": "",
+   "status": "range",
+   "title_match": 0.0,
+   "context": "520-524"
+  },
+  {
+   "source": 525,
+   "target": 522,
+   "raw": "",
+   "status": "range",
+   "title_match": 0.0,
+   "context": "520-524"
+  },
+  {
+   "source": 525,
+   "target": 523,
+   "raw": "",
+   "status": "range",
+   "title_match": 0.0,
+   "context": "520-524"
+  },
+  {
+   "source": 525,
+   "target": 524,
+   "raw": "524",
+   "status": "verified",
+   "title_match": 0.974,
+   "context": " បេទប្តឹងបវិហារដោយភូតកុហកដល់អាជ្ញាធរតុលាការ។ "
+  },
+  {
+   "source": 557,
+   "target": 527,
+   "raw": "527",
+   "status": "verified",
+   "title_match": 0.962,
+   "context": " បេទសម្លុតកុំឱ្យដាក់ពាក្យបណ្តឹង មាត្រា ៥៣១ បេទលាក់បំបាំងសាកស"
+  },
+  {
+   "source": 557,
+   "target": 531,
+   "raw": "531",
+   "status": "verified",
+   "title_match": 0.867,
+   "context": " បេទលាក់បំបាំងសាកសព មាត្រា ៥៣៦ បេទបំផលិចបំផ្លាញ ឬគែបំបាត់វត្"
+  },
+  {
+   "source": 557,
+   "target": 536,
+   "raw": "536",
+   "status": "verified",
+   "title_match": 0.929,
+   "context": " បេទបំផលិចបំផ្លាញ ឬគែបំបាត់វត្ថុដែលមានបិទស្លាកបោះត្រាម មាត្រ"
+  },
+  {
+   "source": 557,
+   "target": 540,
+   "raw": "540",
+   "status": "verified",
+   "title_match": 0.964,
+   "context": " បេទប្រើប្រាស់អត្តសញ្ញាណរបស់អ្នកដទៃ និងមាត្រា ៥៤៤ បេទផ្តល់ជំ"
+  },
+  {
+   "source": 557,
+   "target": 544,
+   "raw": "544",
+   "status": "verified",
+   "title_match": 0.971,
+   "context": " បេទផ្តល់ជំនួយដល់ចារី ជាអាទិ និងការលើកលែង "
+  },
+  {
+   "source": 559,
+   "target": 42,
+   "raw": "42",
+   "status": "verified",
+   "title_match": 0.946,
+   "context": " កោរទទួលខុសត្រូវព្រហ្មទណ្ឌរបស់នីតិបុគ្គល "
+  },
+  {
+   "source": 559,
+   "target": 548,
+   "raw": "548",
+   "status": "verified",
+   "title_match": 0.933,
+   "context": " បេទសូកប៉ាន់សាក្សី មាត្រា៥៥៤ បេទសូកប៉ាន់អ្នកបកប្រែ និងមាត្រា"
+  },
+  {
+   "source": 559,
+   "target": 554,
+   "raw": "554",
+   "status": "verified",
+   "title_match": 0.882,
+   "context": " បេទសូកប៉ាន់អ្នកបកប្រែ និងមាត្រា ៥៥៦ បេទសូកប៉ាន់អ្នកជំនាញវ"
+  },
+  {
+   "source": 559,
+   "target": 556,
+   "raw": "556",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " បេទសូកប៉ាន់អ្នកជំនាញវ"
+  },
+  {
+   "source": 559,
+   "target": 170,
+   "raw": "170",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " កោររំលាយ និងការជម្រះបញ្ជីនៃនីតិបុគ្គល "
+  },
+  {
+   "source": 559,
+   "target": 171,
+   "raw": "171",
+   "status": "verified",
+   "title_match": 0.95,
+   "context": " ឲ្ស្ថិតនៅក្រោមការត្រួតពិនិត្យតាមដានរបស់តុលាការ "
+  },
+  {
+   "source": 559,
+   "target": 172,
+   "raw": "172",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " កោរហាមឃាត់ចំពោះការធ្វើសកម្មភាព "
+  },
+  {
+   "source": 559,
+   "target": 173,
+   "raw": "173",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " កោរបណ្តេញចេញពីលទ្ធកម្មសាធារណៈ។ "
+  },
+  {
+   "source": 559,
+   "target": 174,
+   "raw": "174",
+   "status": "verified",
+   "title_match": 0.956,
+   "context": " កោរហាមឃាត់ចំពោះការធ្វើអំពាវនាវជាសាធារណៈឱ្យធ្វើការសន្សំសីចៃ។"
+  },
+  {
+   "source": 559,
+   "target": 178,
+   "raw": "178",
+   "status": "verified",
+   "title_match": 0.947,
+   "context": " កោររឹបអូសកម្មសិទ្ធ ការលក់ ការបំផ្លាញចោលវត្ថុរឹបអូសនិងមាត្រា"
+  },
+  {
+   "source": 559,
+   "target": 179,
+   "raw": "179",
+   "status": "verified",
+   "title_match": 0.826,
+   "context": " កោររឹបអូស និងសិទ្ធិគតិយជន "
+  },
+  {
+   "source": 559,
+   "target": 178,
+   "raw": "178",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " កោររឹបអូសកម្មសិទ្ី ការលក់ ការបំផ្លាញចោលវត្ថុរឹបអូសា និងមាត្"
+  },
+  {
+   "source": 559,
+   "target": 179,
+   "raw": "179",
+   "status": "verified",
+   "title_match": 0.864,
+   "context": " កោររឹបអូស និងសិ្ធិតតិយជន "
+  },
+  {
+   "source": 559,
+   "target": 180,
+   "raw": "180",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " កោរបិទផ្សាយសេចក្តីសម្រេច "
+  },
+  {
+   "source": 559,
+   "target": 181,
+   "raw": "181",
+   "status": "verified",
+   "title_match": 0.956,
+   "context": " កោរផ្សាយសេចក្តីសម្រេចតាមមធ្យោបាយទូរគមនាគមន៍សោតទស្សន៍ជាអាទិ៍"
+  },
+  {
+   "source": 560,
+   "target": 127,
+   "raw": "127",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": "លក្ខខណ្ឌនៃរបបពាក់កណ្តាលសេរីភាព។ "
+  },
+  {
+   "source": 574,
+   "target": 561,
+   "raw": "561",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " ៦ទោសដែលត្រូវអនុវត្ត និងពីមាត្រា ៥៦៣ បេទគំរាមកំហែងដោយអាវុធ ឬ"
+  },
+  {
+   "source": 574,
+   "target": 563,
+   "raw": "563",
+   "status": "verified",
+   "title_match": 0.978,
+   "context": " បេទគំរាមកំហែងដោយអាវុធ ឬដោយសកម្មភាពដែលមានការព្រមព្រៀង ដល់មាត"
+  },
+  {
+   "source": 574,
+   "target": 564,
+   "raw": "",
+   "status": "range",
+   "title_match": 0.0,
+   "context": "563-570"
+  },
+  {
+   "source": 574,
+   "target": 565,
+   "raw": "",
+   "status": "range",
+   "title_match": 0.0,
+   "context": "563-570"
+  },
+  {
+   "source": 574,
+   "target": 566,
+   "raw": "",
+   "status": "range",
+   "title_match": 0.0,
+   "context": "563-570"
+  },
+  {
+   "source": 574,
+   "target": 567,
+   "raw": "",
+   "status": "range",
+   "title_match": 0.0,
+   "context": "563-570"
+  },
+  {
+   "source": 574,
+   "target": 568,
+   "raw": "",
+   "status": "range",
+   "title_match": 0.0,
+   "context": "563-570"
+  },
+  {
+   "source": 574,
+   "target": 569,
+   "raw": "",
+   "status": "range",
+   "title_match": 0.0,
+   "context": "563-570"
+  },
+  {
+   "source": 574,
+   "target": 570,
+   "raw": "570",
+   "status": "verified",
+   "title_match": 0.988,
+   "context": " ស្ថានទម្ងន់ទោសនៃអំពើជួយសម្រួលការលួចរត់ប្រព្រឹត្តដោយបុគ្គលទទ"
+  },
+  {
+   "source": 603,
+   "target": 589,
+   "raw": "589",
+   "status": "verified",
+   "title_match": 0.977,
+   "context": "បេទមិនព្រមដោះលែងបុគ្គលដែលត្រូវបានឃុំដោយខុសច្បាប់ និងមាត្រា ៦"
+  },
+  {
+   "source": 603,
+   "target": 602,
+   "raw": "602",
+   "status": "verified",
+   "title_match": 0.968,
+   "context": "បេទធ្វើឱ្យខូចខាត ឬឱ្យ បាត់បង់ដោយអចេតនាវ "
+  },
+  {
+   "source": 617,
+   "target": 611,
+   "raw": "611",
+   "status": "verified",
+   "title_match": 0.935,
+   "context": " បេទប្រើប្រាស់លិខិត ឬឯកសារដែលបង្កើតឱ្យមានការភ័ន្តច្រឡំ ដល់មា"
+  },
+  {
+   "source": 617,
+   "target": 612,
+   "raw": "",
+   "status": "range",
+   "title_match": 0.0,
+   "context": "611-616"
+  },
+  {
+   "source": 617,
+   "target": 613,
+   "raw": "",
+   "status": "range",
+   "title_match": 0.0,
+   "context": "611-616"
+  },
+  {
+   "source": 617,
+   "target": 614,
+   "raw": "",
+   "status": "range",
+   "title_match": 0.0,
+   "context": "611-616"
+  },
+  {
+   "source": 617,
+   "target": 615,
+   "raw": "",
+   "status": "range",
+   "title_match": 0.0,
+   "context": "611-616"
+  },
+  {
+   "source": 617,
+   "target": 616,
+   "raw": "616",
+   "status": "verified",
+   "title_match": 0.983,
+   "context": " បេទប្រើប្រាស់នូវឯកសណ្ឋានជាអាទិ ដែលមានភាពប្រហាក់ប្រហែលគ្នានឹ"
+  },
+  {
+   "source": 625,
+   "target": 42,
+   "raw": "42",
+   "status": "verified",
+   "title_match": 0.946,
+   "context": " កោរទទួលខុសត្រូវព្រហ្មទណ្ឌរបស់នីតិបុគ្គលា "
+  },
+  {
+   "source": 625,
+   "target": 605,
+   "raw": "605",
+   "status": "verified",
+   "title_match": 0.889,
+   "context": " បេទសូកប៉ាន់ មាត្រា ៦០៦បេទជំនួញឥទ្ធិពលសកម្ម និងមាត្រា ៦០៧ បេ"
+  },
+  {
+   "source": 625,
+   "target": 606,
+   "raw": "606",
+   "status": "verified",
+   "title_match": 0.944,
+   "context": "បេទជំនួញឥទ្ធិពលសកម្ម និងមាត្រា ៦០៧ បេទសម្លុតគំរាម "
+  },
+  {
+   "source": 625,
+   "target": 607,
+   "raw": "607",
+   "status": "verified",
+   "title_match": 0.917,
+   "context": " បេទសម្លុតគំរាម "
+  },
+  {
+   "source": 625,
+   "target": 170,
+   "raw": "170",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " កោររំលាយ និងការជម្រះបញ្ជីនៃនីតិបុគ្គល "
+  },
+  {
+   "source": 625,
+   "target": 171,
+   "raw": "171",
+   "status": "verified",
+   "title_match": 0.95,
+   "context": " ប្ស្ថិតនៅក្រោមការត្រួតពិនិត្យតាមដានរបស់តុលាការ "
+  },
+  {
+   "source": 625,
+   "target": 172,
+   "raw": "172",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " កោរហាមឃាត់ចំពោះការធ្វើសកម្មភាព "
+  },
+  {
+   "source": 625,
+   "target": 173,
+   "raw": "173",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " កោរបណ្តេញចេញពីលទ្ធកម្មសាធារណៈ។ នៃ ក្រមនេះ ។\n៥- ការហាមឃាត់ចំ"
+  },
+  {
+   "source": 625,
+   "target": 174,
+   "raw": "174",
+   "status": "verified",
+   "title_match": 0.978,
+   "context": " កោរហាមឃាត់ចំពោះការធ្វើអំពាវនាវជាសាធារណៈឱ្យធ្វើការសន្សំសំចៃ "
+  },
+  {
+   "source": 625,
+   "target": 178,
+   "raw": "178",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " កោររឹបអូសកម្មសិទ្ី ការលក់ ការបំផ្លាញចោលវត្ថុរឹបអូសានិងមាត្រ"
+  },
+  {
+   "source": 625,
+   "target": 179,
+   "raw": "179",
+   "status": "verified",
+   "title_match": 0.913,
+   "context": " កោររឹបអូស និងសិទ្ធិតតិយជន "
+  },
+  {
+   "source": 625,
+   "target": 178,
+   "raw": "178",
+   "status": "verified",
+   "title_match": 0.947,
+   "context": " កោររឹបអូសកម្មសិទ្ ការលក់ ការបំផ្លាញចោលវត្ថុរឹបអូស និងមាត្រា"
+  },
+  {
+   "source": 625,
+   "target": 179,
+   "raw": "179",
+   "status": "verified",
+   "title_match": 0.913,
+   "context": " កោររឹបអូស និងសិទ្ធិតតិយជន "
+  },
+  {
+   "source": 625,
+   "target": 180,
+   "raw": "180",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " កោរបិទផ្សាយសេចក្តីសម្រេច "
+  },
+  {
+   "source": 625,
+   "target": 181,
+   "raw": "181",
+   "status": "verified",
+   "title_match": 0.956,
+   "context": " កោរផ្សាយសេចក្តីសម្រេចតាមមធ្យោបាយទូរគមនាគមន៍សោតទស្សន៍ជាអាទិ៍"
+  },
+  {
+   "source": 630,
+   "target": 629,
+   "raw": "629",
+   "status": "verified",
+   "title_match": 0.85,
+   "context": " បេទក្លែងបន្់ឯកសារសាធារណៈ។ "
+  },
+  {
+   "source": 641,
+   "target": 639,
+   "raw": "639",
+   "status": "verified",
+   "title_match": 0.971,
+   "context": " បេទស៊ីសំណូកដោយសមាជិកនៃគណៈវិជ្ជាជីវៈខាងវេជ្ជសាស្ត្រដើម្បីធ្វ"
+  },
+  {
+   "source": 641,
+   "target": 640,
+   "raw": "640",
+   "status": "verified",
+   "title_match": 0.972,
+   "context": " បេទសូកប៉ាន់ចំពោះសមាជិកនៃគណៈវិជ្ជាជីវៈខាងវេជ្ជសាស្ត្រដើម្បីធ"
+  },
+  {
+   "source": 642,
+   "target": 632,
+   "raw": "632",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " បេទស៊ុំឱ្យផ្តល់ឯកសារដោយទុច្ចរិត មាត្រា ៦៣៨ បេទសូកប៉ាន់ចំពោះ"
+  },
+  {
+   "source": 642,
+   "target": 638,
+   "raw": "638",
+   "status": "verified",
+   "title_match": 0.963,
+   "context": " បេទសូកប៉ាន់ចំពោះអ្នកមាននីតិសម្បទា ដើម្បធ្វើលិខិតបញ្ជាក់មិនព"
+  },
+  {
+   "source": 642,
+   "target": 640,
+   "raw": "640",
+   "status": "verified",
+   "title_match": 0.972,
+   "context": " បេទសូកប៉ាន់ចំពោះសមាជិកនៃគណៈវិជ្ជាជីវៈខាងវេជ្ជសាស្ត្រដើម្បីធ"
+  },
+  {
+   "source": 644,
+   "target": 42,
+   "raw": "42",
+   "status": "verified",
+   "title_match": 0.946,
+   "context": " កោរទទួលខុសត្រូវព្រហ្មទណ្ឌរបស់នីតិបុគ្គលា "
+  },
+  {
+   "source": 644,
+   "target": 638,
+   "raw": "638",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " បេទសូកប៉ាន់ចំពោះអ្នកមាននីតិសម្បទាដើម្បីធ្វើលិខិតបញ្ជាក់មិនព"
+  },
+  {
+   "source": 644,
+   "target": 640,
+   "raw": "640",
+   "status": "verified",
+   "title_match": 0.867,
+   "context": " បេទសូកប៉ាន់ចំពោះ"
+  },
+  {
+   "source": 644,
+   "target": 170,
+   "raw": "170",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " កោររំលាយ និងការជម្រះបញ្ជីនៃនីតិបុគ្គលក "
+  },
+  {
+   "source": 644,
+   "target": 171,
+   "raw": "171",
+   "status": "verified",
+   "title_match": 0.975,
+   "context": " ឲ្យស្ថិតនៅក្រោមការត្រួតពិនិត្យតាមដានរបស់តុលាការ "
+  },
+  {
+   "source": 644,
+   "target": 172,
+   "raw": "172",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " កោរហាមឃាត់ចំពោះការធ្វើសកម្មភាព "
+  },
+  {
+   "source": 644,
+   "target": 173,
+   "raw": "173",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " កោរបណ្តេញចេញពីលទ្ធកម្មសាធារណៈ នៃ ក្រមនេះ ។\n៥- ការហាមឃាត់ចំព"
+  },
+  {
+   "source": 644,
+   "target": 174,
+   "raw": "174",
+   "status": "verified",
+   "title_match": 0.978,
+   "context": " កោរហាមឃាត់ចំពោះការធ្វើអំពាវនាវជាសាធារណៈឱ្យធ្វើការសន្សំសំចៃ "
+  },
+  {
+   "source": 644,
+   "target": 178,
+   "raw": "178",
+   "status": "verified",
+   "title_match": 0.947,
+   "context": " កោររឹបអូសកម្មសិ្ ការលក់ ការបំផ្លាញចោលវត្ថុរឹបអូសានិងមាត្រា "
+  },
+  {
+   "source": 644,
+   "target": 179,
+   "raw": "179",
+   "status": "verified",
+   "title_match": 0.913,
+   "context": " កោររឹបអូស និងសិទ្ធិតតិយជន "
+  },
+  {
+   "source": 644,
+   "target": 178,
+   "raw": "178",
+   "status": "verified",
+   "title_match": 0.947,
+   "context": " កោររឹបអូសកម្មសិទ្ធ ការលក់ ការបំផ្លាញចោលវត្ថុរឹបអូសា និងមាត្"
+  },
+  {
+   "source": 644,
+   "target": 179,
+   "raw": "179",
+   "status": "verified",
+   "title_match": 0.913,
+   "context": " កោររឹបអូស និងសិទ្ធិតតិយជន "
+  },
+  {
+   "source": 644,
+   "target": 180,
+   "raw": "180",
+   "status": "verified",
+   "title_match": 1.0,
+   "context": " កោរបិទផ្សាយសេចក្តីសម្រេច "
+  },
+  {
+   "source": 644,
+   "target": 181,
+   "raw": "181",
+   "status": "verified",
+   "title_match": 0.956,
+   "context": " កោរផ្សាយសេចក្តីសម្រេចតាមមធ្យោបាយទូរគមនាគមន៍សោតទស្សន៍ជាអាទិ៍"
+  },
+  {
+   "source": 647,
+   "target": 645,
+   "raw": "645",
+   "status": "verified",
+   "title_match": 0.927,
+   "context": " បេទក្លែងបន្លំរូបិយវត្ថុដែលមានតម្លៃនីត្យានុកូលា និងមាត្រា ៦៤"
+  },
+  {
+   "source": 647,
+   "target": 646,
+   "raw": "646",
+   "status": "verified",
+   "title_match": 0.949,
+   "context": " បេទក្លែងបន្លំរូបិយបណ្ណដែលមានតម្លៃនីត្យានុកូលា "
+  },
+  {
+   "source": 648,
+   "target": 645,
+   "raw": "645",
+   "status": "verified",
+   "title_match": 0.902,
+   "context": " បេទក្លែងបន្លំរូបិយវត្ថុដែលមានតម្លៃនីក្យានុកូល និងមាត្រា ៦៤៦"
+  },
+  {
+   "source": 648,
+   "target": 646,
+   "raw": "646",
+   "status": "verified",
+   "title_match": 0.923,
+   "context": " បេខក្លែងបន្លំរូបិយបណ្ណដែលមានតម្លៃនីត្យានុកូលា "
+  },
+  {
+   "source": 651,
+   "target": 645,
+   "raw": "645",
+   "status": "verified",
+   "title_match": 0.927,
+   "context": " បេទក្លែងបន្លំរូបិយវត្ថុដែលមានតម្លៃនី្យានុក្ូលក និងមាត្រា៦៤៦"
+  },
+  {
+   "source": 651,
+   "target": 646,
+   "raw": "646",
+   "status": "verified",
+   "title_match": 0.949,
+   "context": " បេទក្លែងបន្លំរូបិយបណ្ណដែលមានតម្លៃនីត្យានុកូលា "
+  },
+  {
+   "source": 671,
+   "target": 668,
+   "raw": "668",
+   "status": "verified",
+   "title_match": 0.943,
+   "context": " កោរអនុវត្តបទប្បញ្ញត្តិព្រហ្មទណ្ឌដោយឡែក "
+  }
+ ],
+ "dropped": [
+  {
+   "source": 92,
+   "raw": "90",
+   "reason": "other law",
+   "context": " ឬ តើរវាក្យខណ្ឌន ៤ នៃរដ្ឋធម្មនុញ្ញនៃព្រះរាជាណាចក្រកម្ពុជា ។"
+  },
+  {
+   "source": 139,
+   "raw": "27",
+   "reason": "other law",
+   "context": " នៃរដ្ឋធម្មនុញ្ញនៃព្រះរាជាណាចក្រកម្ពុជា ត្រូវតែគិតគូរអំពីទោស"
+  },
+  {
+   "source": 147,
+   "raw": "27",
+   "reason": "other law",
+   "context": " នៃរដ្ឋធម្មនុញ្ញនៃព្រះរាជាណាចក្រកម្ពុជាលើកលែងឱ្យទណ្ឌិតរួចផុត"
+  },
+  {
+   "source": 149,
+   "raw": "90",
+   "reason": "other law",
+   "context": " បូ ពើរ វាក្យខណ្ឌ៖ ៤ នៃរដ្ឋធម្មនុញ្ញនៃព្រះរាជាណាចក្រកម្ពុជា "
+  }
+ ]
+}

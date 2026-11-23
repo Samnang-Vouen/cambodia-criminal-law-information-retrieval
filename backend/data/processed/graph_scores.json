@@ -1,0 +1,5783 @@
+{
+ "damping": 0.85,
+ "edges": [
+  [
+   21,
+   19
+  ],
+  [
+   21,
+   20
+  ],
+  [
+   55,
+   53
+  ],
+  [
+   71,
+   53
+  ],
+  [
+   99,
+   100
+  ],
+  [
+   110,
+   109
+  ],
+  [
+   115,
+   114
+  ],
+  [
+   145,
+   144
+  ],
+  [
+   152,
+   53
+  ],
+  [
+   153,
+   55
+  ],
+  [
+   167,
+   168
+  ],
+  [
+   187,
+   42
+  ],
+  [
+   187,
+   170
+  ],
+  [
+   187,
+   171
+  ],
+  [
+   187,
+   172
+  ],
+  [
+   187,
+   173
+  ],
+  [
+   187,
+   174
+  ],
+  [
+   187,
+   180
+  ],
+  [
+   187,
+   181
+  ],
+  [
+   187,
+   183
+  ],
+  [
+   187,
+   185
+  ],
+  [
+   192,
+   42
+  ],
+  [
+   192,
+   170
+  ],
+  [
+   192,
+   171
+  ],
+  [
+   192,
+   172
+  ],
+  [
+   192,
+   173
+  ],
+  [
+   192,
+   174
+  ],
+  [
+   192,
+   180
+  ],
+  [
+   192,
+   181
+  ],
+  [
+   192,
+   188
+  ],
+  [
+   192,
+   190
+  ],
+  [
+   198,
+   42
+  ],
+  [
+   198,
+   170
+  ],
+  [
+   198,
+   171
+  ],
+  [
+   198,
+   172
+  ],
+  [
+   198,
+   173
+  ],
+  [
+   198,
+   174
+  ],
+  [
+   198,
+   180
+  ],
+  [
+   198,
+   181
+  ],
+  [
+   198,
+   193
+  ],
+  [
+   198,
+   194
+  ],
+  [
+   198,
+   196
+  ],
+  [
+   199,
+   200
+  ],
+  [
+   199,
+   201
+  ],
+  [
+   199,
+   202
+  ],
+  [
+   199,
+   203
+  ],
+  [
+   199,
+   204
+  ],
+  [
+   199,
+   205
+  ],
+  [
+   209,
+   42
+  ],
+  [
+   209,
+   170
+  ],
+  [
+   209,
+   171
+  ],
+  [
+   209,
+   172
+  ],
+  [
+   209,
+   176
+  ],
+  [
+   209,
+   177
+  ],
+  [
+   209,
+   180
+  ],
+  [
+   209,
+   181
+  ],
+  [
+   209,
+   207
+  ],
+  [
+   211,
+   210
+  ],
+  [
+   212,
+   210
+  ],
+  [
+   213,
+   210
+  ],
+  [
+   214,
+   210
+  ],
+  [
+   215,
+   210
+  ],
+  [
+   230,
+   42
+  ],
+  [
+   230,
+   170
+  ],
+  [
+   230,
+   171
+  ],
+  [
+   230,
+   172
+  ],
+  [
+   230,
+   173
+  ],
+  [
+   230,
+   174
+  ],
+  [
+   230,
+   176
+  ],
+  [
+   230,
+   177
+  ],
+  [
+   230,
+   178
+  ],
+  [
+   230,
+   179
+  ],
+  [
+   230,
+   180
+  ],
+  [
+   230,
+   181
+  ],
+  [
+   230,
+   226
+  ],
+  [
+   230,
+   227
+  ],
+  [
+   238,
+   42
+  ],
+  [
+   238,
+   170
+  ],
+  [
+   238,
+   171
+  ],
+  [
+   238,
+   172
+  ],
+  [
+   238,
+   176
+  ],
+  [
+   238,
+   177
+  ],
+  [
+   238,
+   180
+  ],
+  [
+   238,
+   181
+  ],
+  [
+   238,
+   236
+  ],
+  [
+   247,
+   246
+  ],
+  [
+   248,
+   246
+  ],
+  [
+   257,
+   256
+  ],
+  [
+   258,
+   256
+  ],
+  [
+   259,
+   256
+  ],
+  [
+   267,
+   265
+  ],
+  [
+   268,
+   266
+  ],
+  [
+   269,
+   265
+  ],
+  [
+   270,
+   265
+  ],
+  [
+   273,
+   42
+  ],
+  [
+   273,
+   171
+  ],
+  [
+   273,
+   172
+  ],
+  [
+   273,
+   180
+  ],
+  [
+   273,
+   181
+  ],
+  [
+   273,
+   265
+  ],
+  [
+   273,
+   269
+  ],
+  [
+   275,
+   274
+  ],
+  [
+   277,
+   42
+  ],
+  [
+   277,
+   170
+  ],
+  [
+   277,
+   171
+  ],
+  [
+   277,
+   172
+  ],
+  [
+   277,
+   173
+  ],
+  [
+   277,
+   174
+  ],
+  [
+   277,
+   176
+  ],
+  [
+   277,
+   177
+  ],
+  [
+   277,
+   178
+  ],
+  [
+   277,
+   179
+  ],
+  [
+   277,
+   180
+  ],
+  [
+   277,
+   181
+  ],
+  [
+   277,
+   274
+  ],
+  [
+   280,
+   393
+  ],
+  [
+   281,
+   278
+  ],
+  [
+   281,
+   279
+  ],
+  [
+   283,
+   42
+  ],
+  [
+   283,
+   170
+  ],
+  [
+   283,
+   171
+  ],
+  [
+   283,
+   172
+  ],
+  [
+   283,
+   173
+  ],
+  [
+   283,
+   174
+  ],
+  [
+   283,
+   178
+  ],
+  [
+   283,
+   179
+  ],
+  [
+   283,
+   180
+  ],
+  [
+   283,
+   181
+  ],
+  [
+   283,
+   279
+  ],
+  [
+   296,
+   42
+  ],
+  [
+   296,
+   170
+  ],
+  [
+   296,
+   171
+  ],
+  [
+   296,
+   172
+  ],
+  [
+   296,
+   176
+  ],
+  [
+   296,
+   177
+  ],
+  [
+   296,
+   178
+  ],
+  [
+   296,
+   179
+  ],
+  [
+   296,
+   180
+  ],
+  [
+   296,
+   181
+  ],
+  [
+   315,
+   314
+  ],
+  [
+   336,
+   42
+  ],
+  [
+   336,
+   171
+  ],
+  [
+   336,
+   172
+  ],
+  [
+   336,
+   176
+  ],
+  [
+   336,
+   178
+  ],
+  [
+   336,
+   179
+  ],
+  [
+   336,
+   180
+  ],
+  [
+   336,
+   181
+  ],
+  [
+   336,
+   330
+  ],
+  [
+   336,
+   331
+  ],
+  [
+   336,
+   332
+  ],
+  [
+   338,
+   337
+  ],
+  [
+   340,
+   339
+  ],
+  [
+   342,
+   341
+  ],
+  [
+   409,
+   42
+  ],
+  [
+   409,
+   170
+  ],
+  [
+   409,
+   171
+  ],
+  [
+   409,
+   172
+  ],
+  [
+   409,
+   173
+  ],
+  [
+   409,
+   174
+  ],
+  [
+   409,
+   178
+  ],
+  [
+   409,
+   179
+  ],
+  [
+   409,
+   180
+  ],
+  [
+   409,
+   181
+  ],
+  [
+   409,
+   404
+  ],
+  [
+   411,
+   410
+  ],
+  [
+   412,
+   410
+  ],
+  [
+   414,
+   413
+  ],
+  [
+   415,
+   413
+  ],
+  [
+   416,
+   413
+  ],
+  [
+   417,
+   413
+  ],
+  [
+   421,
+   419
+  ],
+  [
+   449,
+   448
+  ],
+  [
+   490,
+   489
+  ],
+  [
+   493,
+   491
+  ],
+  [
+   495,
+   494
+  ],
+  [
+   496,
+   494
+  ],
+  [
+   516,
+   502
+  ],
+  [
+   519,
+   42
+  ],
+  [
+   519,
+   170
+  ],
+  [
+   519,
+   171
+  ],
+  [
+   519,
+   172
+  ],
+  [
+   519,
+   173
+  ],
+  [
+   519,
+   174
+  ],
+  [
+   519,
+   178
+  ],
+  [
+   519,
+   179
+  ],
+  [
+   519,
+   180
+  ],
+  [
+   519,
+   181
+  ],
+  [
+   519,
+   518
+  ],
+  [
+   525,
+   520
+  ],
+  [
+   525,
+   521
+  ],
+  [
+   525,
+   522
+  ],
+  [
+   525,
+   523
+  ],
+  [
+   525,
+   524
+  ],
+  [
+   557,
+   527
+  ],
+  [
+   557,
+   531
+  ],
+  [
+   557,
+   536
+  ],
+  [
+   557,
+   540
+  ],
+  [
+   557,
+   544
+  ],
+  [
+   559,
+   42
+  ],
+  [
+   559,
+   170
+  ],
+  [
+   559,
+   171
+  ],
+  [
+   559,
+   172
+  ],
+  [
+   559,
+   173
+  ],
+  [
+   559,
+   174
+  ],
+  [
+   559,
+   178
+  ],
+  [
+   559,
+   179
+  ],
+  [
+   559,
+   180
+  ],
+  [
+   559,
+   181
+  ],
+  [
+   559,
+   548
+  ],
+  [
+   559,
+   554
+  ],
+  [
+   559,
+   556
+  ],
+  [
+   560,
+   127
+  ],
+  [
+   574,
+   561
+  ],
+  [
+   574,
+   563
+  ],
+  [
+   574,
+   564
+  ],
+  [
+   574,
+   565
+  ],
+  [
+   574,
+   566
+  ],
+  [
+   574,
+   567
+  ],
+  [
+   574,
+   568
+  ],
+  [
+   574,
+   569
+  ],
+  [
+   574,
+   570
+  ],
+  [
+   603,
+   589
+  ],
+  [
+   603,
+   602
+  ],
+  [
+   617,
+   611
+  ],
+  [
+   617,
+   612
+  ],
+  [
+   617,
+   613
+  ],
+  [
+   617,
+   614
+  ],
+  [
+   617,
+   615
+  ],
+  [
+   617,
+   616
+  ],
+  [
+   625,
+   42
+  ],
+  [
+   625,
+   170
+  ],
+  [
+   625,
+   171
+  ],
+  [
+   625,
+   172
+  ],
+  [
+   625,
+   173
+  ],
+  [
+   625,
+   174
+  ],
+  [
+   625,
+   178
+  ],
+  [
+   625,
+   179
+  ],
+  [
+   625,
+   180
+  ],
+  [
+   625,
+   181
+  ],
+  [
+   625,
+   605
+  ],
+  [
+   625,
+   606
+  ],
+  [
+   625,
+   607
+  ],
+  [
+   630,
+   629
+  ],
+  [
+   641,
+   639
+  ],
+  [
+   641,
+   640
+  ],
+  [
+   642,
+   632
+  ],
+  [
+   642,
+   638
+  ],
+  [
+   642,
+   640
+  ],
+  [
+   644,
+   42
+  ],
+  [
+   644,
+   170
+  ],
+  [
+   644,
+   171
+  ],
+  [
+   644,
+   172
+  ],
+  [
+   644,
+   173
+  ],
+  [
+   644,
+   174
+  ],
+  [
+   644,
+   178
+  ],
+  [
+   644,
+   179
+  ],
+  [
+   644,
+   180
+  ],
+  [
+   644,
+   181
+  ],
+  [
+   644,
+   638
+  ],
+  [
+   644,
+   640
+  ],
+  [
+   647,
+   645
+  ],
+  [
+   647,
+   646
+  ],
+  [
+   648,
+   645
+  ],
+  [
+   648,
+   646
+  ],
+  [
+   651,
+   645
+  ],
+  [
+   651,
+   646
+  ],
+  [
+   671,
+   668
+  ]
+ ],
+ "articles": {
+  "1": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "2": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "3": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "4": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "5": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "6": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "7": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "8": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "9": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "10": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "11": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "12": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "13": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "14": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "15": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "16": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "17": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "18": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "19": {
+   "pagerank": 0.001936863116689396,
+   "hub": 0.0,
+   "authority": 7.630407502115764e-23,
+   "in_degree": 1,
+   "out_degree": 0
+  },
+  "20": {
+   "pagerank": 0.001936863116689396,
+   "hub": 0.0,
+   "authority": 7.630407502115764e-23,
+   "in_degree": 1,
+   "out_degree": 0
+  },
+  "21": {
+   "pagerank": 0.001359202187150478,
+   "hub": 1.3270096911616887e-23,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 2
+  },
+  "22": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "23": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "24": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "25": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "26": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "27": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "28": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "29": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "30": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "31": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "32": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "33": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "34": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "35": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "36": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "37": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "38": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "39": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "40": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "41": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "42": {
+   "pagerank": 0.003098141763463333,
+   "hub": 0.0,
+   "authority": 0.0894153488756641,
+   "in_degree": 16,
+   "out_degree": 0
+  },
+  "43": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "44": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "45": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "46": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "47": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "48": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "49": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "50": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "51": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "52": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "53": {
+   "pagerank": 0.005807191344600994,
+   "hub": 0.0,
+   "authority": 1.9800348600253428e-20,
+   "in_degree": 3,
+   "out_degree": 0
+  },
+  "54": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "55": {
+   "pagerank": 0.002514524046228314,
+   "hub": 1.721746477735983e-21,
+   "authority": 3.725784913142463e-26,
+   "in_degree": 1,
+   "out_degree": 1
+  },
+  "56": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "57": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "58": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "59": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "60": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "61": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "62": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "63": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "64": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "65": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "66": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "67": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "68": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "69": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "70": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "71": {
+   "pagerank": 0.001359202187150478,
+   "hub": 1.721746477735983e-21,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 1
+  },
+  "72": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "73": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "74": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "75": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "76": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "77": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "78": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "79": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "80": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "81": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "82": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "83": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "84": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "85": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "86": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "87": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "88": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "89": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "90": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "91": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "92": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "93": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "94": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "95": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "96": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "97": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "98": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "99": {
+   "pagerank": 0.001359202187150478,
+   "hub": 3.239769753812717e-27,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 1
+  },
+  "100": {
+   "pagerank": 0.002514524046228314,
+   "hub": 0.0,
+   "authority": 3.725784913142463e-26,
+   "in_degree": 1,
+   "out_degree": 0
+  },
+  "101": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "102": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "103": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "104": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "105": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "106": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "107": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "108": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "109": {
+   "pagerank": 0.002514524046228314,
+   "hub": 0.0,
+   "authority": 3.725784913142463e-26,
+   "in_degree": 1,
+   "out_degree": 0
+  },
+  "110": {
+   "pagerank": 0.001359202187150478,
+   "hub": 3.239769753812717e-27,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 1
+  },
+  "111": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "112": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "113": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "114": {
+   "pagerank": 0.002514524046228314,
+   "hub": 0.0,
+   "authority": 3.725784913142463e-26,
+   "in_degree": 1,
+   "out_degree": 0
+  },
+  "115": {
+   "pagerank": 0.001359202187150478,
+   "hub": 3.239769753812717e-27,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 1
+  },
+  "116": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "117": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "118": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "119": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "120": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "121": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "122": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "123": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "124": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "125": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "126": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "127": {
+   "pagerank": 0.002514524046228314,
+   "hub": 0.0,
+   "authority": 3.725784913142463e-26,
+   "in_degree": 1,
+   "out_degree": 0
+  },
+  "128": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "129": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "130": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "131": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "132": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "133": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "134": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "135": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "136": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "137": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "138": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "139": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "140": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "141": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "142": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "143": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "144": {
+   "pagerank": 0.002514524046228314,
+   "hub": 0.0,
+   "authority": 3.725784913142463e-26,
+   "in_degree": 1,
+   "out_degree": 0
+  },
+  "145": {
+   "pagerank": 0.001359202187150478,
+   "hub": 3.239769753812717e-27,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 1
+  },
+  "146": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "147": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "148": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "149": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "150": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "151": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "152": {
+   "pagerank": 0.001359202187150478,
+   "hub": 1.721746477735983e-21,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 1
+  },
+  "153": {
+   "pagerank": 0.001359202187150478,
+   "hub": 3.239769753812717e-27,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 1
+  },
+  "154": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "155": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "156": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "157": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "158": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "159": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "160": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "161": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "162": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "163": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "164": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "165": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "166": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "167": {
+   "pagerank": 0.001359202187150478,
+   "hub": 3.239769753812717e-27,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 1
+  },
+  "168": {
+   "pagerank": 0.002514524046228314,
+   "hub": 0.0,
+   "authority": 3.725784913142463e-26,
+   "in_degree": 1,
+   "out_degree": 0
+  },
+  "169": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "170": {
+   "pagerank": 0.002828066523678904,
+   "hub": 0.0,
+   "authority": 0.08106164867081758,
+   "in_degree": 14,
+   "out_degree": 0
+  },
+  "171": {
+   "pagerank": 0.003098141763463333,
+   "hub": 0.0,
+   "authority": 0.0894153488756641,
+   "in_degree": 16,
+   "out_degree": 0
+  },
+  "172": {
+   "pagerank": 0.003098141763463333,
+   "hub": 0.0,
+   "authority": 0.0894153488756641,
+   "in_degree": 16,
+   "out_degree": 0
+  },
+  "173": {
+   "pagerank": 0.002455796146864934,
+   "hub": 0.0,
+   "authority": 0.06624410252750419,
+   "in_degree": 11,
+   "out_degree": 0
+  },
+  "174": {
+   "pagerank": 0.002455796146864934,
+   "hub": 0.0,
+   "authority": 0.06624410252750418,
+   "in_degree": 11,
+   "out_degree": 0
+  },
+  "175": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "176": {
+   "pagerank": 0.002007895726051502,
+   "hub": 0.0,
+   "authority": 0.032947078229384835,
+   "in_degree": 6,
+   "out_degree": 0
+  },
+  "177": {
+   "pagerank": 0.001902866466135335,
+   "hub": 0.0,
+   "authority": 0.028138504891439993,
+   "in_degree": 5,
+   "out_degree": 0
+  },
+  "178": {
+   "pagerank": 0.00234026396095715,
+   "hub": 0.0,
+   "authority": 0.06084657414461351,
+   "in_degree": 10,
+   "out_degree": 0
+  },
+  "179": {
+   "pagerank": 0.00234026396095715,
+   "hub": 0.0,
+   "authority": 0.060846574144613495,
+   "in_degree": 10,
+   "out_degree": 0
+  },
+  "180": {
+   "pagerank": 0.003098141763463333,
+   "hub": 0.0,
+   "authority": 0.0894153488756641,
+   "in_degree": 16,
+   "out_degree": 0
+  },
+  "181": {
+   "pagerank": 0.003098141763463333,
+   "hub": 0.0,
+   "authority": 0.08941534887566412,
+   "in_degree": 16,
+   "out_degree": 0
+  },
+  "182": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "183": {
+   "pagerank": 0.0014747343730582615,
+   "hub": 0.0,
+   "authority": 0.005237489955986086,
+   "in_degree": 1,
+   "out_degree": 0
+  },
+  "184": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "185": {
+   "pagerank": 0.0014747343730582615,
+   "hub": 0.0,
+   "authority": 0.005237489955986086,
+   "in_degree": 1,
+   "out_degree": 0
+  },
+  "186": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "187": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.058355880569573575,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 10
+  },
+  "188": {
+   "pagerank": 0.0014747343730582615,
+   "hub": 0.0,
+   "authority": 0.005237489955986086,
+   "in_degree": 1,
+   "out_degree": 0
+  },
+  "189": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "190": {
+   "pagerank": 0.0014747343730582615,
+   "hub": 0.0,
+   "authority": 0.005237489955986086,
+   "in_degree": 1,
+   "out_degree": 0
+  },
+  "191": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "192": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.058355880569573575,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 10
+  },
+  "193": {
+   "pagerank": 0.0014642314470666449,
+   "hub": 0.0,
+   "authority": 0.005279344940602042,
+   "in_degree": 1,
+   "out_degree": 0
+  },
+  "194": {
+   "pagerank": 0.0014642314470666449,
+   "hub": 0.0,
+   "authority": 0.005279344940602042,
+   "in_degree": 1,
+   "out_degree": 0
+  },
+  "195": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "196": {
+   "pagerank": 0.0014642314470666449,
+   "hub": 0.0,
+   "authority": 0.005279344940602042,
+   "in_degree": 1,
+   "out_degree": 0
+  },
+  "197": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "198": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.05882222695000009,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 11
+  },
+  "199": {
+   "pagerank": 0.001359202187150478,
+   "hub": 7.05227357280659e-18,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 6
+  },
+  "200": {
+   "pagerank": 0.0015517558303301173,
+   "hub": 0.0,
+   "authority": 1.351703797777301e-17,
+   "in_degree": 1,
+   "out_degree": 0
+  },
+  "201": {
+   "pagerank": 0.0015517558303301173,
+   "hub": 0.0,
+   "authority": 1.351703797777301e-17,
+   "in_degree": 1,
+   "out_degree": 0
+  },
+  "202": {
+   "pagerank": 0.0015517558303301173,
+   "hub": 0.0,
+   "authority": 1.351703797777301e-17,
+   "in_degree": 1,
+   "out_degree": 0
+  },
+  "203": {
+   "pagerank": 0.0015517558303301173,
+   "hub": 0.0,
+   "authority": 1.351703797777301e-17,
+   "in_degree": 1,
+   "out_degree": 0
+  },
+  "204": {
+   "pagerank": 0.0015517558303301173,
+   "hub": 0.0,
+   "authority": 1.351703797777301e-17,
+   "in_degree": 1,
+   "out_degree": 0
+  },
+  "205": {
+   "pagerank": 0.0015517558303301173,
+   "hub": 0.0,
+   "authority": 1.351703797777301e-17,
+   "in_degree": 1,
+   "out_degree": 0
+  },
+  "206": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "207": {
+   "pagerank": 0.0014875712826035708,
+   "hub": 0.0,
+   "authority": 0.004634661505787361,
+   "in_degree": 1,
+   "out_degree": 0
+  },
+  "208": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "209": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.05163919274018366,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 9
+  },
+  "210": {
+   "pagerank": 0.007135811482539657,
+   "hub": 0.0,
+   "authority": 9.096154573101709e-18,
+   "in_degree": 5,
+   "out_degree": 0
+  },
+  "211": {
+   "pagerank": 0.001359202187150478,
+   "hub": 7.909594125519321e-19,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 1
+  },
+  "212": {
+   "pagerank": 0.001359202187150478,
+   "hub": 7.909594125519321e-19,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 1
+  },
+  "213": {
+   "pagerank": 0.001359202187150478,
+   "hub": 7.909594125519321e-19,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 1
+  },
+  "214": {
+   "pagerank": 0.001359202187150478,
+   "hub": 7.909594125519321e-19,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 1
+  },
+  "215": {
+   "pagerank": 0.001359202187150478,
+   "hub": 7.909594125519321e-19,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 1
+  },
+  "216": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "217": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "218": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "219": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "220": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "221": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "222": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "223": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "224": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "225": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "226": {
+   "pagerank": 0.0014417251770846092,
+   "hub": 0.0,
+   "authority": 0.006686571438137111,
+   "in_degree": 1,
+   "out_degree": 0
+  },
+  "227": {
+   "pagerank": 0.0014417251770846092,
+   "hub": 0.0,
+   "authority": 0.006686571438137111,
+   "in_degree": 1,
+   "out_degree": 0
+  },
+  "228": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "229": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "230": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.07450148211125089,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 14
+  },
+  "231": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "232": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "233": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "234": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "235": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "236": {
+   "pagerank": 0.0014875712826035708,
+   "hub": 0.0,
+   "authority": 0.004634661505787361,
+   "in_degree": 1,
+   "out_degree": 0
+  },
+  "237": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "238": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.05163919274018366,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 9
+  },
+  "239": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "240": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "241": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "242": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "243": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "244": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "245": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "246": {
+   "pagerank": 0.00366984590530615,
+   "hub": 0.0,
+   "authority": 1.5260815004231528e-22,
+   "in_degree": 2,
+   "out_degree": 0
+  },
+  "247": {
+   "pagerank": 0.001359202187150478,
+   "hub": 1.3270096911616887e-23,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 1
+  },
+  "248": {
+   "pagerank": 0.001359202187150478,
+   "hub": 1.3270096911616887e-23,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 1
+  },
+  "249": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "250": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "251": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "252": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "253": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "254": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "255": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "256": {
+   "pagerank": 0.004825167764383986,
+   "hub": 0.0,
+   "authority": 1.9800348600253428e-20,
+   "in_degree": 3,
+   "out_degree": 0
+  },
+  "257": {
+   "pagerank": 0.001359202187150478,
+   "hub": 1.721746477735983e-21,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 1
+  },
+  "258": {
+   "pagerank": 0.001359202187150478,
+   "hub": 1.721746477735983e-21,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 1
+  },
+  "259": {
+   "pagerank": 0.001359202187150478,
+   "hub": 1.721746477735983e-21,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 1
+  },
+  "260": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "261": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "262": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "263": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "264": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "265": {
+   "pagerank": 0.005130502827140392,
+   "hub": 0.0,
+   "authority": 0.003630118665486683,
+   "in_degree": 4,
+   "out_degree": 0
+  },
+  "266": {
+   "pagerank": 0.002514524046228314,
+   "hub": 0.0,
+   "authority": 3.725784913142463e-26,
+   "in_degree": 1,
+   "out_degree": 0
+  },
+  "267": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.00031565828219738256,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 1
+  },
+  "268": {
+   "pagerank": 0.001359202187150478,
+   "hub": 3.239769753812717e-27,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 1
+  },
+  "269": {
+   "pagerank": 0.0015242481670187402,
+   "hub": 0.00031565828219738256,
+   "authority": 0.0035451268669016737,
+   "in_degree": 1,
+   "out_degree": 1
+  },
+  "270": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.00031565828219738256,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 1
+  },
+  "271": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "272": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "273": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.03949964616397279,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 7
+  },
+  "274": {
+   "pagerank": 0.0026033949584650705,
+   "hub": 0.0,
+   "authority": 0.006686571438137112,
+   "in_degree": 2,
+   "out_degree": 0
+  },
+  "275": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0005814332390892982,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 1
+  },
+  "276": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "277": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0739200488721616,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 13
+  },
+  "278": {
+   "pagerank": 0.001936863116689396,
+   "hub": 0.0,
+   "authority": 4.87883503584895e-05,
+   "in_degree": 1,
+   "out_degree": 0
+  },
+  "279": {
+   "pagerank": 0.0020418923766055627,
+   "hub": 0.0,
+   "authority": 0.006202667822275078,
+   "in_degree": 2,
+   "out_degree": 0
+  },
+  "280": {
+   "pagerank": 0.001359202187150478,
+   "hub": 3.239769753812717e-27,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 1
+  },
+  "281": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0005435976337212039,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 2
+  },
+  "282": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "283": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.06856625187267108,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 11
+  },
+  "284": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "285": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "286": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "287": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "288": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "289": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "290": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "291": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "292": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "293": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "294": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "295": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "296": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.06181805581868076,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 10
+  },
+  "297": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "298": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "299": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "300": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "301": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "302": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "303": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "304": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "305": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "306": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "307": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "308": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "309": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "310": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "311": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "312": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "313": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "314": {
+   "pagerank": 0.002514524046228314,
+   "hub": 0.0,
+   "authority": 3.725784913142463e-26,
+   "in_degree": 1,
+   "out_degree": 0
+  },
+  "315": {
+   "pagerank": 0.001359202187150478,
+   "hub": 3.239769753812717e-27,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 1
+  },
+  "316": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "317": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "318": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "319": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "320": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "321": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "322": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "323": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "324": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "325": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "326": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "327": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "328": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "329": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "330": {
+   "pagerank": 0.0014642314470666449,
+   "hub": 0.0,
+   "authority": 0.004808573337944847,
+   "in_degree": 1,
+   "out_degree": 0
+  },
+  "331": {
+   "pagerank": 0.0014642314470666449,
+   "hub": 0.0,
+   "authority": 0.004808573337944847,
+   "in_degree": 1,
+   "out_degree": 0
+  },
+  "332": {
+   "pagerank": 0.0014642314470666449,
+   "hub": 0.0,
+   "authority": 0.004808573337944847,
+   "in_degree": 1,
+   "out_degree": 0
+  },
+  "333": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "334": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "335": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "336": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.053576910653219796,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 11
+  },
+  "337": {
+   "pagerank": 0.002514524046228314,
+   "hub": 0.0,
+   "authority": 3.725784913142463e-26,
+   "in_degree": 1,
+   "out_degree": 0
+  },
+  "338": {
+   "pagerank": 0.001359202187150478,
+   "hub": 3.239769753812717e-27,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 1
+  },
+  "339": {
+   "pagerank": 0.002514524046228314,
+   "hub": 0.0,
+   "authority": 3.725784913142463e-26,
+   "in_degree": 1,
+   "out_degree": 0
+  },
+  "340": {
+   "pagerank": 0.001359202187150478,
+   "hub": 3.239769753812717e-27,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 1
+  },
+  "341": {
+   "pagerank": 0.002514524046228314,
+   "hub": 0.0,
+   "authority": 3.725784913142463e-26,
+   "in_degree": 1,
+   "out_degree": 0
+  },
+  "342": {
+   "pagerank": 0.001359202187150478,
+   "hub": 3.239769753812717e-27,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 1
+  },
+  "343": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "344": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "345": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "346": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "347": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "348": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "349": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "350": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "351": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "352": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "353": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "354": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "355": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "356": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "357": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "358": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "359": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "360": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "361": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "362": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "363": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "364": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "365": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "366": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "367": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "368": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "369": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "370": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "371": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "372": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "373": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "374": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "375": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "376": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "377": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "378": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "379": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "380": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "381": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "382": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "383": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "384": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "385": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "386": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "387": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "388": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "389": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "390": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "391": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "392": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "393": {
+   "pagerank": 0.002514524046228314,
+   "hub": 0.0,
+   "authority": 3.725784913142463e-26,
+   "in_degree": 1,
+   "out_degree": 0
+  },
+  "394": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "395": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "396": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "397": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "398": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "399": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "400": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "401": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "402": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "403": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "404": {
+   "pagerank": 0.0014642314470666449,
+   "hub": 0.0,
+   "authority": 0.006153495717184133,
+   "in_degree": 1,
+   "out_degree": 0
+  },
+  "405": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "406": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "407": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "408": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "409": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.06856197609447887,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 11
+  },
+  "410": {
+   "pagerank": 0.00366984590530615,
+   "hub": 0.0,
+   "authority": 1.5260815004231528e-22,
+   "in_degree": 2,
+   "out_degree": 0
+  },
+  "411": {
+   "pagerank": 0.001359202187150478,
+   "hub": 1.3270096911616887e-23,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 1
+  },
+  "412": {
+   "pagerank": 0.001359202187150478,
+   "hub": 1.3270096911616887e-23,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 1
+  },
+  "413": {
+   "pagerank": 0.0059804896234618215,
+   "hub": 0.0,
+   "authority": 6.250829825733234e-19,
+   "in_degree": 4,
+   "out_degree": 0
+  },
+  "414": {
+   "pagerank": 0.001359202187150478,
+   "hub": 5.435431694998277e-20,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 1
+  },
+  "415": {
+   "pagerank": 0.001359202187150478,
+   "hub": 5.435431694998277e-20,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 1
+  },
+  "416": {
+   "pagerank": 0.001359202187150478,
+   "hub": 5.435431694998277e-20,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 1
+  },
+  "417": {
+   "pagerank": 0.001359202187150478,
+   "hub": 5.435431694998277e-20,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 1
+  },
+  "418": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "419": {
+   "pagerank": 0.002514524046228314,
+   "hub": 0.0,
+   "authority": 3.725784913142463e-26,
+   "in_degree": 1,
+   "out_degree": 0
+  },
+  "420": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "421": {
+   "pagerank": 0.001359202187150478,
+   "hub": 3.239769753812717e-27,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 1
+  },
+  "422": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "423": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "424": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "425": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "426": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "427": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "428": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "429": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "430": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "431": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "432": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "433": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "434": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "435": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "436": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "437": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "438": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "439": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "440": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "441": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "442": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "443": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "444": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "445": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "446": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "447": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "448": {
+   "pagerank": 0.002514524046228314,
+   "hub": 0.0,
+   "authority": 3.725784913142463e-26,
+   "in_degree": 1,
+   "out_degree": 0
+  },
+  "449": {
+   "pagerank": 0.001359202187150478,
+   "hub": 3.239769753812717e-27,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 1
+  },
+  "450": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "451": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "452": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "453": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "454": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "455": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "456": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "457": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "458": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "459": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "460": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "461": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "462": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "463": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "464": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "465": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "466": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "467": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "468": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "469": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "470": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "471": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "472": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "473": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "474": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "475": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "476": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "477": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "478": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "479": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "480": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "481": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "482": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "483": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "484": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "485": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "486": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "487": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "488": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "489": {
+   "pagerank": 0.002514524046228314,
+   "hub": 0.0,
+   "authority": 3.725784913142463e-26,
+   "in_degree": 1,
+   "out_degree": 0
+  },
+  "490": {
+   "pagerank": 0.001359202187150478,
+   "hub": 3.239769753812717e-27,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 1
+  },
+  "491": {
+   "pagerank": 0.002514524046228314,
+   "hub": 0.0,
+   "authority": 3.725784913142463e-26,
+   "in_degree": 1,
+   "out_degree": 0
+  },
+  "492": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "493": {
+   "pagerank": 0.001359202187150478,
+   "hub": 3.239769753812717e-27,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 1
+  },
+  "494": {
+   "pagerank": 0.00366984590530615,
+   "hub": 0.0,
+   "authority": 1.5260815004231528e-22,
+   "in_degree": 2,
+   "out_degree": 0
+  },
+  "495": {
+   "pagerank": 0.001359202187150478,
+   "hub": 1.3270096911616887e-23,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 1
+  },
+  "496": {
+   "pagerank": 0.001359202187150478,
+   "hub": 1.3270096911616887e-23,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 1
+  },
+  "497": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "498": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "499": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "500": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "501": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "502": {
+   "pagerank": 0.002514524046228314,
+   "hub": 0.0,
+   "authority": 3.725784913142463e-26,
+   "in_degree": 1,
+   "out_degree": 0
+  },
+  "503": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "504": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "505": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "506": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "507": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "508": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "509": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "510": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "511": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "512": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "513": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "514": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "515": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "516": {
+   "pagerank": 0.001359202187150478,
+   "hub": 3.239769753812717e-27,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 1
+  },
+  "517": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "518": {
+   "pagerank": 0.0014642314470666449,
+   "hub": 0.0,
+   "authority": 0.006153495717184135,
+   "in_degree": 1,
+   "out_degree": 0
+  },
+  "519": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.06856197609447887,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 11
+  },
+  "520": {
+   "pagerank": 0.0015902665589660452,
+   "hub": 0.0,
+   "authority": 1.819230914620342e-18,
+   "in_degree": 1,
+   "out_degree": 0
+  },
+  "521": {
+   "pagerank": 0.0015902665589660452,
+   "hub": 0.0,
+   "authority": 1.819230914620342e-18,
+   "in_degree": 1,
+   "out_degree": 0
+  },
+  "522": {
+   "pagerank": 0.0015902665589660452,
+   "hub": 0.0,
+   "authority": 1.819230914620342e-18,
+   "in_degree": 1,
+   "out_degree": 0
+  },
+  "523": {
+   "pagerank": 0.0015902665589660452,
+   "hub": 0.0,
+   "authority": 1.819230914620342e-18,
+   "in_degree": 1,
+   "out_degree": 0
+  },
+  "524": {
+   "pagerank": 0.0015902665589660452,
+   "hub": 0.0,
+   "authority": 1.819230914620342e-18,
+   "in_degree": 1,
+   "out_degree": 0
+  },
+  "525": {
+   "pagerank": 0.001359202187150478,
+   "hub": 7.909594125519321e-19,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 5
+  },
+  "526": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "527": {
+   "pagerank": 0.0015902665589660452,
+   "hub": 0.0,
+   "authority": 1.819230914620342e-18,
+   "in_degree": 1,
+   "out_degree": 0
+  },
+  "528": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "529": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "530": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "531": {
+   "pagerank": 0.0015902665589660452,
+   "hub": 0.0,
+   "authority": 1.819230914620342e-18,
+   "in_degree": 1,
+   "out_degree": 0
+  },
+  "532": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "533": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "534": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "535": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "536": {
+   "pagerank": 0.0015902665589660452,
+   "hub": 0.0,
+   "authority": 1.819230914620342e-18,
+   "in_degree": 1,
+   "out_degree": 0
+  },
+  "537": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "538": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "539": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "540": {
+   "pagerank": 0.0015902665589660452,
+   "hub": 0.0,
+   "authority": 1.819230914620342e-18,
+   "in_degree": 1,
+   "out_degree": 0
+  },
+  "541": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "542": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "543": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "544": {
+   "pagerank": 0.0015902665589660452,
+   "hub": 0.0,
+   "authority": 1.819230914620342e-18,
+   "in_degree": 1,
+   "out_degree": 0
+  },
+  "545": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "546": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "547": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "548": {
+   "pagerank": 0.0014480730993872346,
+   "hub": 0.0,
+   "authority": 0.006251846060856895,
+   "in_degree": 1,
+   "out_degree": 0
+  },
+  "549": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "550": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "551": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "552": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "553": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "554": {
+   "pagerank": 0.0014480730993872346,
+   "hub": 0.0,
+   "authority": 0.006251846060856895,
+   "in_degree": 1,
+   "out_degree": 0
+  },
+  "555": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "556": {
+   "pagerank": 0.0014480730993872346,
+   "hub": 0.0,
+   "authority": 0.006251846060856895,
+   "in_degree": 1,
+   "out_degree": 0
+  },
+  "557": {
+   "pagerank": 0.001359202187150478,
+   "hub": 7.909594125519321e-19,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 5
+  },
+  "558": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "559": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.06965779125738872,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 13
+  },
+  "560": {
+   "pagerank": 0.001359202187150478,
+   "hub": 3.239769753812717e-27,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 1
+  },
+  "561": {
+   "pagerank": 0.0014875712826035708,
+   "hub": 0.0,
+   "authority": 1.1691907844963648e-15,
+   "in_degree": 1,
+   "out_degree": 0
+  },
+  "562": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "563": {
+   "pagerank": 0.0014875712826035708,
+   "hub": 0.0,
+   "authority": 1.1691907844963648e-15,
+   "in_degree": 1,
+   "out_degree": 0
+  },
+  "564": {
+   "pagerank": 0.0014875712826035708,
+   "hub": 0.0,
+   "authority": 1.1691907844963648e-15,
+   "in_degree": 1,
+   "out_degree": 0
+  },
+  "565": {
+   "pagerank": 0.0014875712826035708,
+   "hub": 0.0,
+   "authority": 1.1691907844963648e-15,
+   "in_degree": 1,
+   "out_degree": 0
+  },
+  "566": {
+   "pagerank": 0.0014875712826035708,
+   "hub": 0.0,
+   "authority": 1.1691907844963648e-15,
+   "in_degree": 1,
+   "out_degree": 0
+  },
+  "567": {
+   "pagerank": 0.0014875712826035708,
+   "hub": 0.0,
+   "authority": 1.1691907844963648e-15,
+   "in_degree": 1,
+   "out_degree": 0
+  },
+  "568": {
+   "pagerank": 0.0014875712826035708,
+   "hub": 0.0,
+   "authority": 1.1691907844963648e-15,
+   "in_degree": 1,
+   "out_degree": 0
+  },
+  "569": {
+   "pagerank": 0.0014875712826035708,
+   "hub": 0.0,
+   "authority": 1.1691907844963648e-15,
+   "in_degree": 1,
+   "out_degree": 0
+  },
+  "570": {
+   "pagerank": 0.0014875712826035708,
+   "hub": 0.0,
+   "authority": 1.1691907844963648e-15,
+   "in_degree": 1,
+   "out_degree": 0
+  },
+  "571": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "572": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "573": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "574": {
+   "pagerank": 0.001359202187150478,
+   "hub": 9.150066698744887e-16,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 9
+  },
+  "575": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "576": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "577": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "578": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "579": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "580": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "581": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "582": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "583": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "584": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "585": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "586": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "587": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "588": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "589": {
+   "pagerank": 0.001936863116689396,
+   "hub": 0.0,
+   "authority": 7.630407502115764e-23,
+   "in_degree": 1,
+   "out_degree": 0
+  },
+  "590": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "591": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "592": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "593": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "594": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "595": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "596": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "597": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "598": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "599": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "600": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "601": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "602": {
+   "pagerank": 0.001936863116689396,
+   "hub": 0.0,
+   "authority": 7.630407502115764e-23,
+   "in_degree": 1,
+   "out_degree": 0
+  },
+  "603": {
+   "pagerank": 0.001359202187150478,
+   "hub": 1.3270096911616887e-23,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 2
+  },
+  "604": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "605": {
+   "pagerank": 0.0014480730993872346,
+   "hub": 0.0,
+   "authority": 0.006251846060856894,
+   "in_degree": 1,
+   "out_degree": 0
+  },
+  "606": {
+   "pagerank": 0.0014480730993872346,
+   "hub": 0.0,
+   "authority": 0.006251846060856894,
+   "in_degree": 1,
+   "out_degree": 0
+  },
+  "607": {
+   "pagerank": 0.0014480730993872346,
+   "hub": 0.0,
+   "authority": 0.006251846060856894,
+   "in_degree": 1,
+   "out_degree": 0
+  },
+  "608": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "609": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "610": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "611": {
+   "pagerank": 0.0015517558303301173,
+   "hub": 0.0,
+   "authority": 1.351703797777301e-17,
+   "in_degree": 1,
+   "out_degree": 0
+  },
+  "612": {
+   "pagerank": 0.0015517558303301173,
+   "hub": 0.0,
+   "authority": 1.351703797777301e-17,
+   "in_degree": 1,
+   "out_degree": 0
+  },
+  "613": {
+   "pagerank": 0.0015517558303301173,
+   "hub": 0.0,
+   "authority": 1.351703797777301e-17,
+   "in_degree": 1,
+   "out_degree": 0
+  },
+  "614": {
+   "pagerank": 0.0015517558303301173,
+   "hub": 0.0,
+   "authority": 1.351703797777301e-17,
+   "in_degree": 1,
+   "out_degree": 0
+  },
+  "615": {
+   "pagerank": 0.0015517558303301173,
+   "hub": 0.0,
+   "authority": 1.351703797777301e-17,
+   "in_degree": 1,
+   "out_degree": 0
+  },
+  "616": {
+   "pagerank": 0.0015517558303301173,
+   "hub": 0.0,
+   "authority": 1.351703797777301e-17,
+   "in_degree": 1,
+   "out_degree": 0
+  },
+  "617": {
+   "pagerank": 0.001359202187150478,
+   "hub": 7.05227357280659e-18,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 6
+  },
+  "618": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "619": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "620": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "621": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "622": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "623": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "624": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "625": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.06965779125738872,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 13
+  },
+  "626": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "627": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "628": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "629": {
+   "pagerank": 0.002514524046228314,
+   "hub": 0.0,
+   "authority": 3.725784913142463e-26,
+   "in_degree": 1,
+   "out_degree": 0
+  },
+  "630": {
+   "pagerank": 0.001359202187150478,
+   "hub": 3.239769753812717e-27,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 1
+  },
+  "631": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "632": {
+   "pagerank": 0.0017443094735097567,
+   "hub": 0.0,
+   "authority": 9.956102331931918e-05,
+   "in_degree": 1,
+   "out_degree": 0
+  },
+  "633": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "634": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "635": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "636": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "637": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "638": {
+   "pagerank": 0.0018405862950995762,
+   "hub": 0.0,
+   "authority": 0.006303816922124056,
+   "in_degree": 2,
+   "out_degree": 0
+  },
+  "639": {
+   "pagerank": 0.001936863116689396,
+   "hub": 0.0,
+   "authority": 4.997706406106779e-05,
+   "in_degree": 1,
+   "out_degree": 0
+  },
+  "640": {
+   "pagerank": 0.0024182472246384945,
+   "hub": 0.0,
+   "authority": 0.006353793986185123,
+   "in_degree": 3,
+   "out_degree": 0
+  },
+  "641": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0005568422290225698,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 2
+  },
+  "642": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0011093045017840034,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 3
+  },
+  "643": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "644": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.06912754378458333,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 12
+  },
+  "645": {
+   "pagerank": 0.0030921849757672318,
+   "hub": 0.0,
+   "authority": 4.055111393331902e-17,
+   "in_degree": 3,
+   "out_degree": 0
+  },
+  "646": {
+   "pagerank": 0.0030921849757672318,
+   "hub": 0.0,
+   "authority": 4.055111393331902e-17,
+   "in_degree": 3,
+   "out_degree": 0
+  },
+  "647": {
+   "pagerank": 0.001359202187150478,
+   "hub": 7.052273572806586e-18,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 2
+  },
+  "648": {
+   "pagerank": 0.001359202187150478,
+   "hub": 7.052273572806586e-18,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 2
+  },
+  "649": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "650": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "651": {
+   "pagerank": 0.001359202187150478,
+   "hub": 7.052273572806586e-18,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 2
+  },
+  "652": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "653": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "654": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "655": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "656": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "657": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "658": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "659": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "660": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "661": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "662": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "663": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "664": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "665": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "666": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "667": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "668": {
+   "pagerank": 0.002514524046228314,
+   "hub": 0.0,
+   "authority": 3.725784913142463e-26,
+   "in_degree": 1,
+   "out_degree": 0
+  },
+  "669": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "670": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  "671": {
+   "pagerank": 0.001359202187150478,
+   "hub": 3.239769753812717e-27,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 1
+  },
+  "672": {
+   "pagerank": 0.001359202187150478,
+   "hub": 0.0,
+   "authority": 0.0,
+   "in_degree": 0,
+   "out_degree": 0
+  }
+ }
+}
